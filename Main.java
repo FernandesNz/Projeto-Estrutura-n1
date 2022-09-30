@@ -70,7 +70,7 @@ public class Main {
 		Artista PozeDoRodo = new Artista("Mc Poze do Rodo", "Rio de Janeiro", "23");
 		Artista PostMalone = new Artista("Post Malone", "Nova York", "27");
 		Artista JustinBieber = new Artista("Justin Bieber", "Canadá", "28");
-		Artista Marshmello = new Artista("Marshmello", "Estados Unidos", "30");
+		Artista Marshmellow = new Artista("Marshmellow", "Estados Unidos", "30");
 		Artista Khalid = new Artista("Khalid", "Estados Unidos", "24");
 		Artista BrunoMars = new Artista("Bruno Mars", "Estados Unidos", "36");
 		Artista EdSheeran = new Artista("EdSheeran", "Reino Unido", "31");
@@ -99,8 +99,12 @@ public class Main {
 		Artista Japa = new Artista("Japa", "São Paulo", "24");
 		
 		
-		//===============================================================
-		//Musicas
+//===============================================================
+//Musicas
+		
+		
+		//==============================================================
+		// Dia 1 
 		
 		
 		Musica Vampiro = new Musica("Vampiro", "2022", Matue );
@@ -132,6 +136,11 @@ public class Main {
 		
 		Musica TavaBom = new Musica("Tava Bom", "2022", Mateca);
 				Slot s10 = new Slot(1, 10, TavaBom);
+				
+				
+				
+				
+				
 		
 		Musica UmaBala = new Musica("Uma Bala", "2018", Derek);
 				Slot s11 = new Slot(1, 11, UmaBala);
@@ -205,6 +214,12 @@ public class Main {
 		Musica Prada = new Musica("Prada", "2021", Japa);
 				Slot s34 = new Slot(1, 34, Prada);
 				
+				
+				
+				
+				
+				
+				
 		Musica OCaveiraoChegou = new Musica("O caveirao chegou", "2021", DjEry );
 				Slot s35 = new Slot(1,35, OCaveiraoChegou);
 				
@@ -240,6 +255,14 @@ public class Main {
 				
 		Musica Reputation = new Musica("Reputation", "2022", PostMalone);
 				Slot s46 = new Slot(1, 46, Reputation);
+				
+				
+				
+				
+				
+				
+				
+				
 		
 		Musica Felina = new Musica("Felina", "2022", Wiu );
 				Slot s47 = new Slot(1,47, Felina);
@@ -264,6 +287,14 @@ public class Main {
 				
 		Musica Sucrilhos = new Musica("Sucrilhos", "2019", Wiu);
 				Slot s54 = new Slot(1,54, Sucrilhos);
+				
+				
+				
+				
+				
+				
+				
+				
 				
 		Musica DinheiroMeSonda = new Musica("Dinheiro me sonda", "2022", Dfideliz );
 				Slot s55 = new Slot(1,55, DinheiroMeSonda);
@@ -310,6 +341,18 @@ public class Main {
 		Musica DizQueEHoje = new Musica("Diz que e Hoje", "2021", Dfideliz );
 				Slot s69 = new Slot(1, 69, DizQueEHoje);
 				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 		Musica MiamiVice = new Musica("Miami Vice", "2022", YunkVino);
 				Slot s70 = new Slot(1,70, MiamiVice);
 		
@@ -339,6 +382,14 @@ public class Main {
 			
 		Musica RSS = new Musica("R.S.S", "2020", YunkVino);
 				Slot s79 = new Slot(1, 79, RSS);
+				
+				
+				
+				
+				
+				
+				
+				
 		
 		Musica LuisaSonza = new Musica("Luisa Sonza", "2022", Derek);
 				Slot s80 = new Slot(1,80, LuisaSonza);
@@ -369,6 +420,14 @@ public class Main {
 			
 		Musica KylieJenner = new Musica("Kylie Jenner", "2019", Derek);
 				Slot s89 = new Slot(1, 89, KylieJenner);
+				
+				
+				
+				
+				
+				
+				
+				
 		
 		Musica VestidoDaFendi = new Musica("Vestido da Fendi", "2022", KayBlack);
 				Slot s90 = new Slot(1,90, VestidoDaFendi);
@@ -387,6 +446,15 @@ public class Main {
 				
 		Musica Freestyle = new Musica("Freestyle", "2022", KayBlack);
 				Slot s95 = new Slot(1,95, Freestyle);
+				
+				
+				
+				
+				
+				
+				
+				
+				
 				
 		Musica OPretoMaiscaro = new Musica("O Preto Mais Caro", "2022", McCaverinha);
 				Slot s96 = new Slot(1, 96, OPretoMaiscaro);
@@ -417,6 +485,13 @@ public class Main {
 	
 		Musica SeSegura = new Musica("Se Segura", "2022", McCaverinha);
 				Slot s105 = new Slot(1,105, SeSegura);
+				
+				
+				
+				
+				
+				
+				
 		
 		Musica POCPOC = new Musica("POC POC", "2020", JeSant);
 				Slot s106 = new Slot(1, 106, POCPOC);
@@ -462,6 +537,14 @@ public class Main {
 		
 		Musica PlayboyInternacional = new Musica("Playboy Internacional", "2020", JeSant);
 				Slot s120 = new Slot(1, 120, PlayboyInternacional);
+				
+				
+				
+				
+		
+		
+				
+				
 		
 		Musica Vilao = new Musica("Vilao", "2022", YungBuda);
 				Slot s121 = new Slot(1, 121, Vilao);
@@ -522,15 +605,481 @@ public class Main {
 				
 		Musica RejeiteFalsosIcones = new Musica("Rejeito Falsos Icones", "2021", YungBuda);
 				Slot s140 = new Slot(1,140, RejeiteFalsosIcones);
+				
+				
+				
+				
+		
+		
+		
+		
+				
+				
+				
+		Musica LouisVMeninaLinda = new Musica("Louis V, Menina Linda", "2021", Sidoka );
+				Slot s141 = new Slot(1,141, LouisVMeninaLinda);
+				
+		Musica NaoMeSintoMAlMais = new Musica("Nao Me SInto MAl MAis", "2019", Sidoka );
+				Slot s142 = new Slot(1,142, NaoMeSintoMAlMais);
+				
+		Musica EstacionaEDesce = new Musica("Estaciona E Desce", "2019", Sidoka );
+				Slot s143 = new Slot(1,143, EstacionaEDesce);
+					
+		Musica AiPreto = new Musica("Ai Preto", "2021", L7nnon );
+				Slot s144 = new Slot(1,144, AiPreto);
+			
+		Musica Perdicao = new Musica("Perdição", "2020", L7nnon );
+				Slot s145 = new Slot(1,145, Perdicao);
+
+		Musica SeiQueTuGostaMuito = new Musica("Sei Que Tu Gosta Muito", "2022", L7nnon );
+				Slot s146 = new Slot(1,146, SeiQueTuGostaMuito);
+				
+		Musica Metflix = new Musica("Metflix", "2022", PozeDoRodo );
+				Slot s147 = new Slot(1,147, Metflix);
+				
+		Musica MeSintoAbencoado = new Musica("Me Sinto Abençoado", "2021", PozeDoRodo );
+				Slot s148 = new Slot(1,148, SenteAMarra);
+					
+		Musica ACaraDocrime2 = new Musica("A Cara do Crime 2", "2019", PozeDoRodo );
+				Slot s149 = new Slot(1,149, ACaraDocrime2);
+			
+		Musica Congratulation = new Musica("Congratulation", "2016", PostMalone );
+				Slot s150 = new Slot(1,150, Reputation);
+				
+		Musica  LemonTree = new  Musica ( "Lemon Tree" , "2022" , PostMalone );
+				Slot  s151 = new  Slot( 1 , 151 , LemonTree );
+							
+		Musica  Stay = new  Musica ( "stay" , "2016" , PostMalone );
+	            Slot  s152 = new  Slot ( 1 , 152 , Stay );
+	                    
+	    Musica  Circle = new  Musica ( "Circle" , "2019" , PostMalone );
+	            Slot  s153 = new  Slot ( 1 , 153 , Circle );
+	                        
+	    Musica  CandyPaint = new  Musica ( "Candy Paint" , "2019" , PostMalone );
+	            Slot  s154 = new  Slot ( 1 , 154 , CandyPaint );
+	                        
+	    Musica  Goodbyes = new  Musica ( "Goodbyes" , "2019" , PostMalone );
+	            Slot  s155 = new  Slot ( 1 , 155 , Goodbyes);
+	                        
+	    Musica  Baby = new  Musica ( "Baby" , "2010" , JustinBieber );
+	            Slot  s156 = new  Slot ( 1 , 156 , Baby );
+	                
+	    Musica  OneTime = new  Musica ( "One Time" , "2022" , JustinBieber );
+	            Slot  s157 = new  Slot ( 1 , 157 , OneTime );
+	                            
+	    Musica  Peaches = new  Musica ( "Peaches" , "2021" , JustinBieber );
+	            Slot  s158 = new  Slot ( 1 , 158 , Marquinha );
+	                    
+	    Musica  Silence = new  Musica ( "Silence" , "2017" , Marshmellow);
+	            Slot  s159 = new  Slot ( 1 , 159 , Silence );
+	                        
+	    Musica  Happier = new  Musica ( "Happier" , "2018" , Marshmellow );
+	            Slot  s160 = new  Slot ( 1 , 160 , Happier );
+	                
+	    Musica  ComeOn = new  Musica ( "ComeOn" , "2022" , Marshmellow );
+	            Slot  s161 = new  Slot ( 1 , 161 , ComeOn );
+	                            
+	    Musica  Better = new  Musica ( "Better" , "2018" , Khalid );
+	            Slot  s162 = new  Slot ( 1 , 162 , RockNRoll );
+	                    
+	    Musica  Location = new  Musica ( "Location" , "2017" , Khalid );
+	            Slot  s163 = new  Slot ( 1 , 163 , Location );
+	                        
+	    Musica  AmericaTeen = new  Musica ( "America Teen" , "2017" , Khalid );
+	            Slot  s164 = new  Slot ( 1 , 164 , AmericaTeen );
+	                        
+	    Musica  Grenade = new  Musica ( "Grenade" , "2010" ,BrunoMars );
+	            Slot  s165 = new  Slot ( 1 , 165 , Grenade );
+	                        
+	    Musica  CountOnMe = new  Musica ( "Count On Me" , "2010" , BrunoMars );
+	            Slot  s166 = new  Slot ( 1 , 166 , CountOnMe );
+	                
+	    Musica  MarryYou = new  Musica ( "Marry You" , "2010" , BrunoMars );
+	            Slot  s167 = new  Slot ( 1 , 167 , MarryYou );
+	                            
+	    Musica  Photograph = new  Musica ( "Photograph" , "2016" , EdSheeran );
+	            Slot  s168 = new  Slot ( 1 , 168 , Photograph );
+	                    
+	    Musica  ShapeOfYou = new  Musica ( "Shape Of You" , "2017" , EdSheeran );
+	            Slot  s169 = new  Slot ( 1 , 169 , ShapeOfYou);
+
+	    Musica Perfect = new  Musica ( "Perfect" , "2017" , EdSheeran );
+	            Slot  s170 = new  Slot ( 1 , 170 , Perfect );
+	                
+	    Musica  Yellow = new  Musica ( "Yellow" , "2000" , Coldplay );
+	            Slot  s171 = new  Slot ( 1 , 171 , Yellow );
+	                            
+	    Musica  FixYou = new  Musica ( "Fix You" , "2005" , Coldplay );
+	            Slot  s172 = new  Slot ( 1 , 172 , FixYou );
+	                    
+	    Musica  VivaLaVida = new  Musica ( "Viva La Vida" , "2008" , Coldplay );
+	            Slot  s173 = new  Slot ( 1 , 173 , VivaLaVida );
+	                        
+	    Musica  LoveOfMine = new  Musica ( "LoveOfMine" , "2022" , ImagineDragons );
+	            Slot  s174 = new  Slot ( 1 , 174 , WaterWater );
+	                        
+	    Musica  Beliver = new  Musica ( "Beliver" , "2017" , ImagineDragons );
+	            Slot  s175 = new  Slot ( 1 , 175 , Beliver );
+	                        
+	    Musica  Birds = new  Musica ( "Birds" , "2020" , ImagineDragons );
+	            Slot  s176 = new  Slot ( 1 , 176 , Birds );
+	                
+	    Musica  Chanel = new  Musica ( "Chanel" , "2017" , FrankOcean );
+	            Slot  s177 = new  Slot ( 1 , 177 , Chanel );
+	                            
+	    Musica  Nights = new  Musica ( "Nights" , "2017" , FrankOcean );
+	            Slot  s178 = new  Slot ( 1 , 178 , Nights );
+	                    
+	    Musica  A505 = new  Musica ( "505" , "2007" , ArticMonkeys );
+	            Slot  s179 = new  Slot ( 1 , 179 , A505 );
+	                
+	    Musica  JaVirouRotina = new  Musica ( "Ja Virou Rotina" , "2022" , Pericles );
+	            Slot s180 = new  Slot ( 1 , 180 , JaVirouRotina );
+	            
+
+
+	            
+	            
+	            
+	            
+	    Musica Brasa = new  Musica ( "Brasa" , "2022" , Pericles );
+                Slot  s181 = new  Slot ( 1 , 181 , Brasa );
+                    
+        Musica  Lucidez = new  Musica ( "Lucidez" , "2022" , Pericles);
+                Slot  s182 = new  Slot ( 1 , 182 , Lucidez );
+            
+        Musica  Envolver = new  Musica ( "Envolver" , "2021" , Anitta );
+                Slot  s183 = new  Slot ( 1 ,183 , Envolver );
+                
+        Musica  LaLoto = new  Musica ( "LaLoto" , "2022" , Anitta );
+                Slot  s184 = new  Slot ( 1 , 184 , LaLoto );
+                
+        Musica  VersionofMe = new  Musica ( "VersionOfMe" , "2022" , Anitta );
+                Slot  s185 = new  Slot ( 1 , 185 , VersionofMe);
+                
+        Musica  WaterlmelonSugar = new  Musica ( "Watermelon Sugar" , "2021" , HarryStyle );
+                Slot  s186 = new  Slot ( 1 , 186 , WaterlmelonSugar );
+        
+        Musica  AtItWas = new  Musica ( "At It Was" , "2022" , HarryStyle  );
+                Slot  s187 = new  Slot ( 1 , 187 , AtItWas );
+                    
+        Musica  Matilda = new  Musica ( "Matilda" , "2022" , HarryStyle  );
+                Slot  s188 = new  Slot ( 1 , 188 , Matilda );
+            
+        Musica  BetterNow = new  Musica ( "Better Now" , "2016" , PostMalone );
+                Slot  s189 = new  Slot ( 1 , 189 , BetterNow );
+
+        Musica  Psycho = new  Musica ( "Psycho" , "2016" , PostMalone );
+                Slot  s190 = new  Slot ( 1 , 190 , Psycho );
+        
+        Musica  Boyfriend = new  Musica ( "Boyfriend" , "2013" , JustinBieber );
+                Slot  s191 = new  Slot ( 1 , 191 , Boyfriend );
+                    
+        Musica  Allergic = new  Musica ( "Allergic" , "2019" , PostMalone );
+                Slot  s192 = new  Slot ( 1 , 192 , Allergic );
+            
+        Musica  SaintTropez = new  Musica ( "Saint - Tropez" , "2019" , PostMalone );
+                Slot  s193 = new  Slot ( 1 , 193 , SaintTropez );
+                
+        Musica  Somebody = new  Musica ( "Somebody" , "2021" , JustinBieber );
+                Slot  s194 = new  Slot ( 1 , 194 , Somebody );
+                
+        Musica  Doutora3 = new  Musica ( "Doutora 3" , "2021" , McKevin );
+                Slot  s195 = new  Slot ( 1 , 195 , Doutora3 );
+                
+        Musica  CavaloDeTroia = new  Musica ( "Cavalo de Troia" , "2019" , McKevin );
+                Slot  s196 = new  Slot ( 1 , 196 , CavaloDeTroia );
+        
+        Musica  Cracolandia = new  Musica ( "Cracolândia" , "2019" , McHariel );
+                Slot  s197 = new  Slot ( 1 , 197 , Cracolandia );
+                    
+        Musica  Sunflower = new  Musica ( "Sunflower" , "2018" , PostMalone );
+                Slot  s198 = new  Slot ( 1 , 198 , Sunflower );
+            
+        Musica  internet = new  Musica ( "internet" , "2019" , PostMalone );
+                Slot  s199 = new  Slot ( 1 , 199 , internet );
+
+        Musica  Enemies = new  Musica ( "Enemies" , "2019" , PostMalone );
+                Slot  s200 = new  Slot ( 1 , 199 , Enemies );
+
+        Musica  NeverSayNever = new  Musica ( "Never Say Never" , "2010" , JustinBieber );
+                Slot  s201 = new  Slot ( 1 , 201 , NeverSayNever );
+        
+        Musica  NoisTaBolandoUmPlano = new  Musica ( "Nois Ta Bolando Um Plano" , "2018" , McHariel );
+                Slot  s202 = new  Slot ( 1 , 202 , NoisTaBolandoUmPlano );
+        
+        Musica  MacaVerde = new  Musica ( "Maçã Verde" , "2020" , McHariel);
+                Slot  s203 = new  Slot ( 1 , 203 , MacaVerde );
+            
+        Musica  TiraDeGiro = new  Musica ( "Tira de Giro" , "2018" , McHariel );
+                Slot  s204 = new  Slot ( 1 , 204 , TiraDeGiro );
+    
+        Musica  MoBrisa = new  Musica ( "Mo Brisa" , "2017" , McHariel );
+                Slot  s205 = new  Slot ( 1 , 205 , MoBrisa );
+        
+        Musica  PraTeVer = new  Musica ( "Pra te Ver" , "2019" , McHariel );
+                Slot  s206 = new  Slot ( 1 , 206 , PraTeVer );
+                
+        Musica  LeiDoRetorno = new  Musica ( "Lei Do Retorno" , "2017" , McHariel );
+                Slot  s207 = new  Slot ( 1 , 207 , LeiDoRetorno );
+                
+        Musica  Obssessao = new  Musica ( "Obssessão" , "2017" , McHariel );
+                Slot  s208 = new  Slot ( 1 , 208 , Obssessao );
+        
+        Musica  QuemTemDo = new  Musica ( "Quem tem Dó" , "2018" , McHariel );
+                Slot  s209 = new  Slot ( 1 , 209 , QuemTemDo );
+        
+        Musica  CoracaoNaGeladeira = new  Musica ( "Coraçaõ na Geladeira" , "2017" , McHariel );
+                Slot  s210 = new  Slot ( 1 , 210 , CoracaoNaGeladeira);
+                
+        Musica  Ressaca = new  Musica ( "Ressaca" , "2019" , McKevin );
+                Slot  s211 = new  Slot ( 1 , 211 , Ressaca );
+        
+        Musica  Veracruz = new  Musica ( "Veracruz" , "2019" , McKevin );
+                Slot  s212 = new  Slot ( 1 , 210 , LV );
+        
+        Musica  JogaBola = new  Musica ( "JogaBola" , "2019" , McKevin );
+                Slot  s213 = new  Slot ( 1 , 213 , JogaBola );
+        
+        Musica  Clima = new  Musica ( "CLima" , "2019" , McKevin );
+                Slot  s214 = new  Slot ( 1 , 214 , Clima );
+        
+        Musica  Vencedores = new  Musica ( "Vencedores" , "2019" , McKevin );
+                Slot  s215 = new  Slot ( 1 , 215 , Vencedores );
+        
+        Musica  Bailao = new  Musica ( "Bailão" , "2019" , McKevin );
+                Slot  s216 = new  Slot ( 1 , 216 , Bailao );
+        
+        Musica  Cavalinho = new  Musica ( "Cavalinho" , "2019" , McKevin );
+                Slot  s217 = new  Slot ( 1 , 217 , Cavalinho );
+        
+        Musica  JaguarDoAno = new  Musica ( "JaguarDoAno" , "2021" , McKevin );
+                Slot  s218 = new  Slot ( 1 , 218 , JaguarDoAno );
+        
+        Musica  VidaDeArtista = new  Musica ( "Vida De Artista" , "2021" , McKevin );
+                Slot  s219 = new  Slot ( 1 , 219 , VidaDeArtista );
+        
+        Musica  PassarDeFoguetao = new  Musica ( "Passar De Foguetão" , "2021" , McKevin );
+                Slot  s220 = new  Slot ( 1 , 220 , PassarDeFoguetao );
+		
+
+		
 		
 		
 				
 		
 		
 		
-		//================================================================
+//================================================================
+// dia 2 
 		
+				Slot a1 = new Slot(2,1, MiamiVice);
 		
+				Slot a2 = new Slot(2,2, Wave);
+					
+				Slot a3 = new Slot(2,3, Vlife);
+			
+				Slot a4 = new Slot(2, 4, Margiela);
+				
+				Slot a5 = new Slot(2,5, WaterWater);
+				
+				Slot a6 = new Slot(2,6, OnlyFans);
+				
+				Slot a7 = new Slot(2,7, Lilas);
+		
+				Slot a8 = new Slot(2,8, Highlights);
+					
+				Slot a9 = new Slot(2,9, a30Dias);
+			
+				Slot a10 = new Slot(2,10, RSS);
+		
+				Slot a11 = new Slot(2,11, LuisaSonza);
+	
+				Slot a12 = new Slot(2,12, ScoobyDoo);
+			
+				Slot a13 = new Slot(2,13, a360);
+				
+				Slot a14 = new Slot(2,14, ITOLDYOU);
+				
+				Slot a15 = new Slot(2,15, ForReal);
+				
+				Slot a16 = new Slot(2, 16, NoCap);
+		
+				Slot a17 = new Slot(2,17, FeFeFe);
+					
+				Slot a18 = new Slot(2,18, EuTenhoDrip);
+			
+				Slot a19 = new Slot(2,89, KylieJenner);
+				
+				Slot a20 = new Slot(2,20, PlayboyInternacional);
+		
+				Slot a21 = new Slot(2,21, Vilao);
+		
+				Slot a22 = new Slot(2,22, Monstro);
+		
+				Slot a23 = new Slot(2,23, HayabusaChromo);
+		
+				Slot a24 = new Slot(2,24, DriftDeYasuo);
+		
+				Slot a25 = new Slot(2,25, KatanaEPistola);
+		
+				Slot a26 = new Slot(2,26, RidersX);
+		
+				Slot a27 = new Slot(2,27, a7K);
+		
+				Slot a28 = new Slot(2,28, NewWave);
+		
+				Slot a29 = new Slot(2,29, OSegredoAlemDoJardim);
+		
+				Slot a30 = new Slot(2,30, Ninja);
+		
+				Slot a31 = new Slot(2,31, Piloto);
+		
+				Slot a32 = new Slot(2,32, Pleasurekreft);
+		
+				Slot a33 = new Slot(2,33, California);
+		
+				Slot a34 = new Slot(2,34, AutumnRingMini);
+				
+				Slot a35 = new Slot(2,35, SuzukiEscudo);
+				
+				Slot a36 = new Slot(2,36, Autobahn);
+				
+				Slot a37 = new Slot(2,37, AkatsukiDeVila);
+					
+				Slot a38 = new Slot(2,38, JesusChorouPt2);
+			
+				Slot a39 = new Slot(2,39, SemSinal);
+				
+				Slot a40 = new Slot(2,40, RejeiteFalsosIcones);
+				
+				Slot a41 = new Slot(2,41, Vampiro);
+		
+				Slot a42 = new Slot(2,42, SemDo);
+		
+				Slot a43 = new Slot(2,43, Groupies);
+			
+				Slot a44 = new Slot(2,44, QuerVoar);
+	
+				Slot a45 = new Slot(2,45, M4);
+		
+				Slot a46 = new Slot(2,46, Banco);
+				
+				Slot a47 = new Slot(2,47, AMorteDoAutotune);
+				
+				Slot a48 = new Slot(2,48, QuemMandaEA30);
+		
+				Slot a49 = new Slot(2,49, BalAzul);
+		
+				Slot a50 = new Slot(2,50, TavaBom);
+		
+				Slot a51 = new Slot(2,51, UmaBala);
+		
+				Slot a52 = new Slot(2,52, KennyG);
+		
+				Slot a53 = new Slot(2,53, a777666);
+		
+				Slot a54 = new Slot(2,54, Antes);
+		
+				Slot a55 = new Slot(2,55, ESal);
+		
+				Slot a56 = new Slot(2,56, MaquinaDoTempo);
+		
+				Slot a57 = new Slot(2,57, Cogulandia);
+		
+				Slot a58 = new Slot(2,58, Manha);
+		
+				Slot a59 = new Slot(2,59, DiaAzul);
+		
+				Slot a60 = new Slot(2,60, Fashion);
+				
+                		Slot a61 = new Slot(2,61, ComeOn );         
+
+                		Slot a62 = new Slot(2,62, RockNRoll );
+           
+                		Slot a63 = new Slot(2,63, Location );
+                
+                		Slot a64 = new Slot(2,64, AmericaTeen );
+               
+                		Slot a65 = new Slot(2,65, Grenade );
+                
+                		Slot a66 = new Slot(2,66, CountOnMe );
+        
+                		Slot a67 = new Slot(2,67, MarryYou );
+                   
+                		Slot a68 = new Slot(2,68, Photograph );
+            
+                		Slot a69 = new Slot(2,69, ShapeOfYou);
+
+                		Slot a70 = new Slot(2,70, Perfect );
+                
+				Slot a71 = new Slot(2,71, LouisVMeninaLinda);
+				
+				Slot a72 = new Slot(2, 72, NaoMeSintoMAlMais);
+				
+				Slot a73 = new Slot(2,73, EstacionaEDesce);
+					
+				Slot a74 = new Slot(2,74, AiPreto);
+			
+				Slot a75 = new Slot(2,75, Perdicao);
+
+				Slot a76 = new Slot(2,76, SeiQueTuGostaMuito);
+				
+				Slot a77 = new Slot(2,77, Metflix);
+				
+				Slot a78 = new Slot(2,78, SenteAMarra);
+					
+				Slot a79 = new Slot(2,79, ACaraDocrime2);
+			
+				Slot a80 = new Slot(2,80, Reputation);
+				
+				Slot a81 = new  Slot(2,81, LemonTree );
+		
+			    Slot a82 = new Slot (2,82, Stay );
+
+			    Slot a83 = new Slot (2,83, Circle );
+
+			    Slot a84 = new Slot (2,84, CandyPaint );
+
+			    Slot a85 = new Slot (2,85, Goodbyes);
+
+			    Slot a86 = new Slot (2,86, Baby );
+
+			    Slot a87 = new Slot (2,87, OneTime );
+
+			    Slot a88 = new Slot (2,88, Marquinha );
+
+			    Slot a89 = new Slot (2,89, Silence );
+
+			    Slot a90 = new Slot (2,90, Happier );
+
+			    Slot a91 = new Slot (2,91, Yellow );
+
+			    Slot a92 = new  Slot (2,92, FixYou );
+
+			    Slot  a93 = new  Slot ( 2 , 93 , VivaLaVida );
+
+			    Slot  a94 = new  Slot ( 2 , 94 , WaterWater );
+
+			    Slot  a95 = new  Slot ( 2 , 95 , Beliver );
+
+			    Slot  a96 = new  Slot ( 2 , 96 , Birds );
+
+			    Slot  a97 = new  Slot ( 2 , 97 , Chanel );
+
+			    Slot  a98 = new  Slot ( 2 , 98 , Nights );
+
+			    Slot  a99 = new  Slot ( 2 , 99 , A505 );
+
+			    Slot a100 = new  Slot ( 2 , 100 , JaVirouRotina );
+			
+			
+				
+				
+//================================================================
+// inserindo dia 1 
+				
+				
 		radio.inserir(s1);
 		radio.inserir(s2);
 		radio.inserir(s3);
@@ -663,8 +1212,112 @@ public class Main {
 		radio.inserir(s140);
 		
 		
+//================================================================
+// inserindo dia 2 
 		
-		//================================================================
+		
+		radio.inserir(a1);
+		radio.inserir(a2);
+		radio.inserir(a3);
+		radio.inserir(a4);
+		radio.inserir(a5);
+		radio.inserir(a6);
+		radio.inserir(a7);
+		radio.inserir(a8);
+		radio.inserir(a9);
+		radio.inserir(a10);
+		radio.inserir(a11);
+		radio.inserir(a12);
+		radio.inserir(a13);
+		radio.inserir(a14);
+		radio.inserir(a15);
+		radio.inserir(a16);
+		radio.inserir(a17);
+		radio.inserir(a18);
+		radio.inserir(a19);
+		radio.inserir(s20);
+		radio.inserir(a21);
+		radio.inserir(a22);
+		radio.inserir(a23);
+		radio.inserir(a24);
+		radio.inserir(a25);
+		radio.inserir(a26);
+		radio.inserir(a27);
+		radio.inserir(a28);
+		radio.inserir(a29);
+		radio.inserir(a30);
+		radio.inserir(a31);
+		radio.inserir(a32);
+		radio.inserir(a33);
+		radio.inserir(a34);
+		radio.inserir(a35);
+		radio.inserir(a36);
+		radio.inserir(a37);
+		radio.inserir(a38);
+		radio.inserir(a39);
+		radio.inserir(a40);
+		radio.inserir(a41);
+		radio.inserir(a42);
+		radio.inserir(a43);
+		radio.inserir(a44);
+		radio.inserir(a45);
+		radio.inserir(a46);
+		radio.inserir(a47);
+		radio.inserir(a48);
+		radio.inserir(a49);
+		radio.inserir(a50);
+		radio.inserir(a51);
+		radio.inserir(a52);
+		radio.inserir(a53);
+		radio.inserir(a54);
+		radio.inserir(a55);
+		radio.inserir(a56);
+		radio.inserir(a57);
+		radio.inserir(a58);
+		radio.inserir(a59);
+		radio.inserir(a60);
+		radio.inserir(a61);
+		radio.inserir(a62);
+		radio.inserir(a63);
+		radio.inserir(a64);
+		radio.inserir(a65);
+		radio.inserir(a66);
+		radio.inserir(a67);
+		radio.inserir(a68);
+		radio.inserir(a69);
+		radio.inserir(a70);
+		radio.inserir(a71);
+		radio.inserir(a72);
+		radio.inserir(a73);
+		radio.inserir(a74);
+		radio.inserir(a75);
+		radio.inserir(a76);
+		radio.inserir(a77);
+		radio.inserir(a78);
+		radio.inserir(a79);
+		radio.inserir(a80);
+		radio.inserir(a81);
+		radio.inserir(a82);
+		radio.inserir(a83);
+		radio.inserir(a84);
+		radio.inserir(a85);
+		radio.inserir(a86);
+		radio.inserir(a87);
+		radio.inserir(a88);
+		radio.inserir(a89);
+		radio.inserir(a90);
+		radio.inserir(a91);
+		radio.inserir(a92);
+		radio.inserir(a93);
+		radio.inserir(a94);
+		radio.inserir(a95);
+		radio.inserir(a96);
+		radio.inserir(a97);
+		radio.inserir(a98);
+		radio.inserir(a99);
+		radio.inserir(a100);
+		
+//================================================================
 		
 		System.out.println(s1.dscrição());
 		System.out.println(s2.dscrição());
@@ -672,11 +1325,12 @@ public class Main {
 		System.out.println(s4.dscrição());
 		System.out.println(s5.dscrição());
 		
-		System.out.println("===================");
+		System.out.println("===============================================");
+		System.out.println("\nSegue a Lista de Musicas do dia");
+		System.out.println("\n===============================================");
 		
 		
-		
-		radio.buscarDia(1);
+		radio.buscarDia(2);
 	
 		
 		
