@@ -58,6 +58,7 @@ public class Main {
 		Artista YungBuda = new Artista("Yung Buda", "São Paulo", "24");
 		Artista Travis = new Artista("Travis Scott", "Texas", "31");
 		Artista McCaverinha = new Artista("Mc Caverinha", "São Paulo", "14");
+		Artista BlackAlien = new Artista("Black Alien", "São Paulo", "40");
 		
 		
 		Artista DjEry = new Artista("Dj Ery", "São Paulo", "28");
@@ -541,8 +542,6 @@ public class Main {
 				
 				
 				
-		
-		
 				
 				
 		
@@ -609,10 +608,6 @@ public class Main {
 				
 				
 				
-		
-		
-		
-		
 				
 				
 				
@@ -644,7 +639,7 @@ public class Main {
 				Slot s149 = new Slot(1,149, ACaraDocrime2);
 			
 		Musica Congratulation = new Musica("Congratulation", "2016", PostMalone );
-				Slot s150 = new Slot(1,150, Reputation);
+				Slot s150 = new Slot(1,150, Congratulation);
 				
 		Musica  LemonTree = new  Musica ( "Lemon Tree" , "2022" , PostMalone );
 				Slot  s151 = new  Slot( 1 , 151 , LemonTree );
@@ -716,7 +711,7 @@ public class Main {
 	            Slot  s173 = new  Slot ( 1 , 173 , VivaLaVida );
 	                        
 	    Musica  LoveOfMine = new  Musica ( "LoveOfMine" , "2022" , ImagineDragons );
-	            Slot  s174 = new  Slot ( 1 , 174 , WaterWater );
+	            Slot  s174 = new  Slot ( 1 , 174 , LoveOfMine);
 	                        
 	    Musica  Beliver = new  Musica ( "Beliver" , "2017" , ImagineDragons );
 	            Slot  s175 = new  Slot ( 1 , 175 , Beliver );
@@ -863,7 +858,7 @@ public class Main {
                 Slot  s220 = new  Slot ( 1 , 220 , PassarDeFoguetao );
 		
 
-		
+		Musica ComoEuTeQuero = new Musica("Como eu Te Quero", "2009", BlackAlien);
 		
 		
 				
@@ -993,25 +988,25 @@ public class Main {
 		
 				Slot a60 = new Slot(2,60, Fashion);
 				
-                		Slot a61 = new Slot(2,61, ComeOn );         
+                Slot a61 = new Slot(2,61, ComeOn );         
 
-                		Slot a62 = new Slot(2,62, RockNRoll );
+                Slot a62 = new Slot(2,62, RockNRoll );
            
-                		Slot a63 = new Slot(2,63, Location );
+                Slot a63 = new Slot(2,63, Location );
                 
-                		Slot a64 = new Slot(2,64, AmericaTeen );
+                Slot a64 = new Slot(2,64, AmericaTeen );
                
-                		Slot a65 = new Slot(2,65, Grenade );
+                Slot a65 = new Slot(2,65, Grenade );
                 
-                		Slot a66 = new Slot(2,66, CountOnMe );
+                Slot a66 = new Slot(2,66, CountOnMe );
         
-                		Slot a67 = new Slot(2,67, MarryYou );
+                Slot a67 = new Slot(2,67, MarryYou );
                    
-                		Slot a68 = new Slot(2,68, Photograph );
+                Slot a68 = new Slot(2,68, Photograph );
             
-                		Slot a69 = new Slot(2,69, ShapeOfYou);
+                Slot a69 = new Slot(2,69, ShapeOfYou);
 
-                		Slot a70 = new Slot(2,70, Perfect );
+                Slot a70 = new Slot(2,70, Perfect );
                 
 				Slot a71 = new Slot(2,71, LouisVMeninaLinda);
 				
@@ -1031,47 +1026,291 @@ public class Main {
 					
 				Slot a79 = new Slot(2,79, ACaraDocrime2);
 			
-				Slot a80 = new Slot(2,80, Reputation);
+				Slot a80 = new Slot(2,80, Congratulation);
 				
 				Slot a81 = new  Slot(2,81, LemonTree );
 		
-			    Slot a82 = new Slot (2,82, Stay );
+	            Slot a82 = new Slot (2,82, Stay );
+	                    
+	            Slot a83 = new Slot (2,83, Circle );
+	                       
+	            Slot a84 = new Slot (2,84, CandyPaint );
+	                        
+	            Slot a85 = new Slot (2,85, Goodbyes);
+	                        
+	            Slot a86 = new Slot (2,86, Baby );
+	                
+	            Slot a87 = new Slot (2,87, OneTime );
+	                            
+	            Slot a88 = new Slot (2,88, Marquinha );
+	                    
+	            Slot a89 = new Slot (2,89, Silence );
+	                        
+	            Slot a90 = new Slot (2,90, Happier );
+	            
+	            Slot a91 = new Slot (2,91, Yellow );
+	                            
+	            Slot a92 = new  Slot (2,92, FixYou );
+	                    
+	            Slot  a93 = new  Slot ( 2 , 93 , VivaLaVida );
+	                        
+	            Slot  a94 = new  Slot ( 2 , 94 , LoveOfMine);
+	                        
+	            Slot  a95 = new  Slot ( 2 , 95 , Beliver );
+	                        
+	            Slot  a96 = new  Slot ( 2 , 96 , Birds );
+	                
+	            Slot  a97 = new  Slot ( 2 , 97 , Chanel );
+	                            
+	            Slot  a98 = new  Slot ( 2 , 98 , Nights );
+	                    
+	            Slot  a99 = new  Slot ( 2 , 99 , A505 );
+	                
+	            Slot a100 = new  Slot ( 2 , 100 , JaVirouRotina );
+	            
+				Slot a101 = new Slot(2, 101, Agua);
+		
+				Slot a102 = new Slot(2, 102, OkBaby);
+		
+				Slot a103 = new Slot(2, 103, Rn);
+		
+				Slot a104 = new Slot(2, 104, Dejavu);
+		
+				Slot a105 = new Slot(2, 105, Osaka);
+		
+				Slot a106 = new Slot(2, 106, Kyoto);
+		
+				Slot a107 = new Slot(2, 107, DieForYou);
+		
+				Slot a108 = new Slot(2, 108, a2036);
+		
+				Slot a109 = new Slot(2, 109, High);
+		
+				Slot a110 = new Slot(2, 110, SpikeLee);
+		
+				Slot a112 = new Slot(2, 112, Yokono);
+				
+				Slot a111 = new Slot(2, 111, ComoEuTeQuero);
+		
+				Slot a113 = new Slot(2, 113, Salao);
+		
+				Slot a114 = new Slot(2, 114, QuemEQuem);
+		
+				Slot a115 = new Slot(2, 115, Prada);
+				
+				Slot a116 = new Slot(2, 116, POCPOC);
+				
+				Slot a117 = new Slot(2, 117, JackBauer);
+				
+				Slot a118 = new Slot(2, 118, Honda);
+		
+				Slot a119 = new Slot(2, 119, TT);
+		
+				Slot a120 = new Slot(2, 120, Rush);
+				
+				Slot a121 = new Slot(2, 121, Balenciaga);
+		
+				Slot a122 = new Slot(2, 122, LV);
+		
+				Slot a123 = new Slot(2, 123, Snakes);
+		
+				Slot a124 = new Slot(2, 124, Mob);
+		
+				Slot a125 = new Slot(2, 125, NovoRico);
+		
+				Slot a126 = new Slot(2, 126, Netflix);
+		
+				Slot a127 = new Slot(2, 127, Dinero);
+		
+				Slot a128 = new Slot(2, 128, VidaDeChafe);
+		
+				Slot a129 = new Slot(2, 129, TipoGiroflex);
+				
+				Slot a130 = new Slot(2, 130, OPretoMaiscaro);
+		
+				Slot a131 = new Slot(2,131, DoubleCup);
+					
+				Slot a132 = new Slot(2,132, Evoque);
+			
+				Slot a133 = new Slot(2,133, a212Vip);
+		
+				Slot a134 = new Slot(2, 134, Flash);
+		
+				Slot a135 = new Slot(2,135, Medina);
+		
+				Slot a136 = new Slot(2,136, TipoGTA);
+		
+				Slot a137 = new Slot(2,137, NaoPisaNoMeuBoot);
+			
+				Slot a138 = new Slot(2,138, OPaiTaOn);
+	
+				Slot a139 = new Slot(2,139, SeSegura);
+				
+				Slot a140 = new Slot(2,140, VestidoDaFendi);
+	
+				Slot a141 = new Slot(2,141, Licor43);
+					
+				Slot a142 = new Slot(2,142, Lembrancas);
+			
+				Slot a143 = new Slot(2, 143, Tralha);
+				
+				Slot a144 = new Slot(2,144, FogueteDaNasa);
+				
+				Slot a145 = new Slot(2,145, Freestyle);
+				
+                Slot a146 = new  Slot (2 , 146 , Brasa );
+                    
+                Slot  a147 = new  Slot ( 2 , 147 , Lucidez );
+            
+                Slot  a148 = new  Slot ( 2 ,148 , Envolver );
+                
+                Slot  a149 = new  Slot ( 2 , 149 , LaLoto );
+                
+                Slot  a150 = new  Slot ( 2 , 150 , VersionofMe);
+                
+                Slot  a151 = new  Slot ( 2 , 151 , WaterlmelonSugar );
+        
+                Slot  a152 = new  Slot ( 2 , 152 , AtItWas );
+                    
+                Slot  a153 = new  Slot ( 2 , 153 , Matilda );
+            
+                Slot  a154 = new  Slot ( 2 , 154 , BetterNow );
 
-			    Slot a83 = new Slot (2,83, Circle );
+                Slot  a155 = new  Slot ( 2 , 155 , Psycho );
+        
+                Slot  a156 = new  Slot ( 2 , 156 , Boyfriend );
+                    
+                Slot  a157 = new  Slot ( 2 , 157 , Allergic );
+            
+                Slot  a158 = new  Slot ( 2 , 157 , SaintTropez );
+                
+                Slot  a159 = new  Slot ( 2 , 159 , Somebody );
+                
+                Slot  a160 = new  Slot ( 2 , 160 , Doutora3 );
+                
+                Slot  a161 = new  Slot ( 2 , 161 , CavaloDeTroia );
+        
+                Slot  a162 = new  Slot ( 2 , 162 , Cracolandia );
+                    
+                Slot  a163 = new  Slot ( 2 , 163 , Sunflower );
+            
+                Slot  a164 = new  Slot ( 2 , 164 , internet );
 
-			    Slot a84 = new Slot (2,84, CandyPaint );
+                Slot  a165 = new  Slot ( 2 , 165 , Enemies );
 
-			    Slot a85 = new Slot (2,85, Goodbyes);
+                Slot  a166 = new  Slot ( 2 , 166 , NeverSayNever );
+        
+                Slot  a167 = new  Slot ( 2 , 167 , NoisTaBolandoUmPlano );
+        
+                Slot  a168 = new  Slot ( 2 , 168 , MacaVerde );
+            
+                Slot  a169 = new  Slot ( 2 , 169 , TiraDeGiro );
+    
+                Slot  a170 = new  Slot ( 2 , 170 , MoBrisa );
+        
+                Slot  a171 = new  Slot ( 2 , 171 , PraTeVer );
+                
+                Slot  a172 = new  Slot ( 2 , 172 , LeiDoRetorno );
+                
+                Slot  a173 = new  Slot ( 2 , 173 , Obssessao );
+        
+                Slot  a174 = new  Slot ( 2 , 174 , QuemTemDo );
+        
+                Slot  a175 = new  Slot ( 2 , 175 , CoracaoNaGeladeira);
+                
+                Slot  a176 = new  Slot ( 2 , 176 , Ressaca );
+        
+                Slot  a177 = new  Slot ( 2 , 177 , LV );
+        
+                Slot  a178 = new  Slot ( 2 , 178 , JogaBola );
+        
+                Slot  a179 = new  Slot ( 2 , 179 , Clima );
+        
+                Slot  a180 = new  Slot ( 2 , 180 , Vencedores );
+        
+                Slot  a181 = new  Slot ( 2 , 181 , Bailao );
+        
+                Slot  a182 = new  Slot ( 2 , 182 , Cavalinho );
+        
+                Slot  a183 = new  Slot ( 2 , 183 , JaguarDoAno );
+        
+                Slot  a184 = new  Slot ( 2 , 184 , VidaDeArtista );
+        
+                Slot  a185 = new  Slot ( 2 , 185 , PassarDeFoguetao );
+                
+				Slot a186 = new Slot(2,186, DinheiroMeSonda);
+				
+				Slot a187 = new Slot(2, 187, Forbes);
+		
+				Slot a188 = new Slot(2,188, ElaRebolaPraMimeSenta);
+					
+				Slot a189 = new Slot(2,189, Marquinha);
+			
+				Slot a190 = new Slot(2, 190, MeninoBom);
+				
+				Slot a191 = new Slot(2,191, EuSoDeslizo);
+		
+				Slot a192 = new Slot(2,192, DripdeNegao);
+					
+				Slot a193 = new Slot(2,193, RockNRoll);
+			
+				Slot a194 = new Slot(2, 194, PretoRico);
+				
+				Slot a195 = new Slot(2,195, TranseiComAMorte);
+				
+				Slot a196 = new Slot(2,196, Cassino);
+				
+				Slot a197 = new Slot(2,197, SuaSafada);
+		
+				Slot a198 = new Slot(2,198, Oracao);
+					
+				Slot a199 = new Slot(2,199, Progresso);
+			
+				Slot a200 = new Slot(2,200, DizQueEHoje);
+				
+				Slot a201 = new Slot(2,201, Felina);
+					
+				Slot a202 = new Slot(2,202, Sertao);
+			
+				Slot a203 = new Slot(2,203, AmigaTalarica);
+				
+				Slot a204 = new Slot(2,204, Pitbull);
+		
+				Slot a205 = new Slot(2,205, LagrimasDecrocodilo);
+					
+				Slot a206 = new Slot(2,206, Obraz);
+			
+				Slot a207 = new Slot(2, 207, Mantem);
+				
+				Slot a208 = new Slot(2,208, Sucrilhos);
+				
+				Slot a209 = new Slot(2,209, OCaveiraoChegou);
+				
+				Slot a210 = new Slot(2,210, OMaestroDosFluxos);
+				
+				Slot a211 = new Slot(2,211, HinoDosParedoes);
+					
+				Slot a212 = new Slot(2,212, Liberdade);
+			
+				Slot a213 = new Slot(2, 213, MegaRaveSemChao);
+				
+				Slot a214 = new Slot(2,214, RaveDaSirene);
 
-			    Slot a86 = new Slot (2,86, Baby );
+				Slot a215 = new Slot(2,215, IrmaGostosa);
+				
+				Slot a216 = new Slot(2,216, FazerFalta);
+				
+				Slot a217 = new Slot(2,217, SenteAMarra);
+					
+				Slot a218 = new Slot(2,218, CalendarioDoPapai);
+			
+				Slot a219 = new Slot(2,219, ToGostandoTantoDeVoce);
+				
+				Slot a220 = new Slot(2, 220, Reputation);
+				
+				
+				
 
-			    Slot a87 = new Slot (2,87, OneTime );
-
-			    Slot a88 = new Slot (2,88, Marquinha );
-
-			    Slot a89 = new Slot (2,89, Silence );
-
-			    Slot a90 = new Slot (2,90, Happier );
-
-			    Slot a91 = new Slot (2,91, Yellow );
-
-			    Slot a92 = new  Slot (2,92, FixYou );
-
-			    Slot  a93 = new  Slot ( 2 , 93 , VivaLaVida );
-
-			    Slot  a94 = new  Slot ( 2 , 94 , WaterWater );
-
-			    Slot  a95 = new  Slot ( 2 , 95 , Beliver );
-
-			    Slot  a96 = new  Slot ( 2 , 96 , Birds );
-
-			    Slot  a97 = new  Slot ( 2 , 97 , Chanel );
-
-			    Slot  a98 = new  Slot ( 2 , 98 , Nights );
-
-			    Slot  a99 = new  Slot ( 2 , 99 , A505 );
-
-			    Slot a100 = new  Slot ( 2 , 100 , JaVirouRotina );
 			
 			
 				
@@ -1210,6 +1449,77 @@ public class Main {
 		radio.inserir(s138);
 		radio.inserir(s139);
 		radio.inserir(s140);
+		radio.inserir(s141);
+		radio.inserir(s142);
+		radio.inserir(s143);
+		radio.inserir(s144);
+		radio.inserir(s145);
+		radio.inserir(s146);
+		radio.inserir(s147);
+		radio.inserir(s148);
+		radio.inserir(s149);
+		radio.inserir(s150);
+		radio.inserir(s151);
+		radio.inserir(s152);
+		radio.inserir(s153);
+		radio.inserir(s154);
+		radio.inserir(s155);
+		radio.inserir(s156);
+		radio.inserir(s157);
+		radio.inserir(s158);
+		radio.inserir(s159);
+		radio.inserir(s160);
+		radio.inserir(s161);
+		radio.inserir(s162);
+		radio.inserir(s163);
+		radio.inserir(s164);
+		radio.inserir(s165);
+		radio.inserir(s166);
+		radio.inserir(s167);
+		radio.inserir(s168);
+		radio.inserir(s169);
+		radio.inserir(s170);
+		radio.inserir(s171);
+		radio.inserir(s172);
+		radio.inserir(s173);
+		radio.inserir(s174);
+		radio.inserir(s175);
+		radio.inserir(s176);
+		radio.inserir(s177);
+		radio.inserir(s178);
+		radio.inserir(s179);
+		radio.inserir(s180);
+		radio.inserir(s191);
+		radio.inserir(s192);
+		radio.inserir(s193);
+		radio.inserir(s194);
+		radio.inserir(s195);
+		radio.inserir(s196);
+		radio.inserir(s197);
+		radio.inserir(s198);
+		radio.inserir(s199);
+		radio.inserir(s200);
+		radio.inserir(s201);
+		radio.inserir(s202);
+		radio.inserir(s203);
+		radio.inserir(s204);
+		radio.inserir(s205);
+		radio.inserir(s206);
+		radio.inserir(s207);
+		radio.inserir(s208);
+		radio.inserir(s209);
+		radio.inserir(s210);
+		radio.inserir(s211);
+		radio.inserir(s212);
+		radio.inserir(s213);
+		radio.inserir(s214);
+		radio.inserir(s215);
+		radio.inserir(s216);
+		radio.inserir(s217);
+		radio.inserir(s218);
+		radio.inserir(s219);
+		radio.inserir(s220);
+		
 		
 		
 //================================================================
@@ -1235,7 +1545,7 @@ public class Main {
 		radio.inserir(a17);
 		radio.inserir(a18);
 		radio.inserir(a19);
-		radio.inserir(s20);
+		radio.inserir(a20);
 		radio.inserir(a21);
 		radio.inserir(a22);
 		radio.inserir(a23);
@@ -1316,6 +1626,116 @@ public class Main {
 		radio.inserir(a98);
 		radio.inserir(a99);
 		radio.inserir(a100);
+		radio.inserir(a101);
+		radio.inserir(a102);
+		radio.inserir(a103);
+		radio.inserir(a104);
+		radio.inserir(a105);
+		radio.inserir(a106);
+		radio.inserir(a107);
+		radio.inserir(a108);
+		radio.inserir(a109);
+		radio.inserir(a110);
+		radio.inserir(a111);
+		radio.inserir(a112);
+		radio.inserir(a113);
+		radio.inserir(a114);
+		radio.inserir(a115);
+		radio.inserir(a116);
+		radio.inserir(a117);
+		radio.inserir(a118);
+		radio.inserir(a119);
+		radio.inserir(a120);
+		radio.inserir(a121);
+		radio.inserir(a122);
+		radio.inserir(a123);
+		radio.inserir(a124);
+		radio.inserir(a125);
+		radio.inserir(a126);
+		radio.inserir(a127);
+		radio.inserir(a128);
+		radio.inserir(a129);
+		radio.inserir(a130);
+		radio.inserir(a131);
+		radio.inserir(a132);
+		radio.inserir(a133);
+		radio.inserir(a134);
+		radio.inserir(a135);
+		radio.inserir(a136);
+		radio.inserir(a137);
+		radio.inserir(a138);
+		radio.inserir(a139);
+		radio.inserir(a140);
+		radio.inserir(a141);
+		radio.inserir(a142);
+		radio.inserir(a143);
+		radio.inserir(a144);
+		radio.inserir(a145);
+		radio.inserir(a146);
+		radio.inserir(a147);
+		radio.inserir(a148);
+		radio.inserir(a149);
+		radio.inserir(a150);
+		radio.inserir(a151);
+		radio.inserir(a152);
+		radio.inserir(a153);
+		radio.inserir(a154);
+		radio.inserir(a155);
+		radio.inserir(a156);
+		radio.inserir(a157);
+		radio.inserir(a158);
+		radio.inserir(a159);
+		radio.inserir(a160);
+		radio.inserir(a161);
+		radio.inserir(a162);
+		radio.inserir(a163);
+		radio.inserir(a164);
+		radio.inserir(a165);
+		radio.inserir(a166);
+		radio.inserir(a167);
+		radio.inserir(a168);
+		radio.inserir(a169);
+		radio.inserir(a170);
+		radio.inserir(a171);
+		radio.inserir(a172);
+		radio.inserir(a173);
+		radio.inserir(a174);
+		radio.inserir(a175);
+		radio.inserir(a176);
+		radio.inserir(a177);
+		radio.inserir(a178);
+		radio.inserir(a179);
+		radio.inserir(a180);
+		radio.inserir(a191);
+		radio.inserir(a192);
+		radio.inserir(a193);
+		radio.inserir(a194);
+		radio.inserir(a195);
+		radio.inserir(a196);
+		radio.inserir(a197);
+		radio.inserir(a198);
+		radio.inserir(a199);
+		radio.inserir(a200);
+		radio.inserir(a201);
+		radio.inserir(a202);
+		radio.inserir(a203);
+		radio.inserir(a204);
+		radio.inserir(a205);
+		radio.inserir(a206);
+		radio.inserir(a207);
+		radio.inserir(a208);
+		radio.inserir(a209);
+		radio.inserir(a210);
+		radio.inserir(a211);
+		radio.inserir(a212);
+		radio.inserir(a213);
+		radio.inserir(a214);
+		radio.inserir(a215);
+		radio.inserir(a216);
+		radio.inserir(a217);
+		radio.inserir(a218);
+		radio.inserir(a219);
+		radio.inserir(a220);
 		
 //================================================================
 		
@@ -1330,7 +1750,8 @@ public class Main {
 		System.out.println("\n===============================================");
 		
 		
-		radio.buscarDia(2);
+		radio.buscarDia(1);
+		System.out.println(radio.getQuantidade());
 	
 		
 		
