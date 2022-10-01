@@ -59,6 +59,7 @@ public class Main {
 		Artista Travis = new Artista("Travis Scott", "Texas", "31");
 		Artista McCaverinha = new Artista("Mc Caverinha", "São Paulo", "14");
 		Artista BlackAlien = new Artista("Black Alien", "São Paulo", "40");
+		Artista McIgu = new Artista("Mc igu", "São Paulo", "26");
 		
 		
 		Artista DjEry = new Artista("Dj Ery", "São Paulo", "28");
@@ -98,6 +99,13 @@ public class Main {
 		
 		Artista Mateca = new Artista("Mateca", "São Paulo", "23");
 		Artista Japa = new Artista("Japa", "São Paulo", "24");
+		Artista MCCabelinho = new Artista("MCCabelinho", "Rio de Janeiro", "25");
+		Artista Chefin = new Artista("Chefin", "Rio de Janeiro", "20");
+		Artista FilipeRet = new Artista("FilipeRet", "Rio de janeiro", "28");
+		Artista DJMattD = new Artista("DJMattD", "São Paulo", "27");
+		Artista BIN = new Artista("BIN", "Saõ Paulo", "26");
+		Artista Kweller = new Artista("Kweller", "Roraima", "29");
+		Artista Alee = new Artista("Alee", "Rio de janeiro", "20");
 		
 		
 //===============================================================
@@ -856,6 +864,257 @@ public class Main {
         
         Musica  PassarDeFoguetao = new  Musica ( "Passar De Foguetão" , "2021" , McKevin );
                 Slot  s220 = new  Slot ( 1 , 220 , PassarDeFoguetao );
+                
+                
+                
+                
+                
+                
+        Musica Quarto= new Musica("Quarto","2022",Japa);
+       			Slot s221 = new Slot(1, 221, Quarto);
+       			
+        Musica Arigato= new Musica("Arigato","2022",Japa);
+        		Slot  s222 = new Slot(1, 222, Arigato);
+        		
+        Musica Playboy= new Musica("Playboy","2022",Japa);
+        		Slot s223 = new Slot(1, 223, Playboy);
+        		
+        Musica Japao= new Musica("Japao","2022",Japa);
+        		Slot s224 = new Slot(1, 224, Japao);
+        		
+        Musica NoTies= new Musica("NoTies","2022",Japa);
+        		Slot  s225 = new Slot(1, 225, NoTies);
+        		
+        Musica VVS= new Musica("VVS","2022",Japa);
+        		Slot  s226 = new Slot(1, 226, VVS);
+        		
+        Musica DNA= new Musica("DNA","2022",Japa);
+        		Slot  s227 = new Slot(1, 227, DNA);
+        		
+        Musica AguasRasas= new Musica("AguasRasas","2022",Japa);
+        		Slot  s228 = new Slot(1, 228, AguasRasas);
+        		
+        Musica YE= new Musica("YE","2022",Japa);
+        		Slot  s229 = new Slot(1, 229, YE);
+        		
+        Musica DreamGirl= new Musica("DreamGirl","2022",Japa);
+        		Slot  s230 = new Slot(1, 230, DreamGirl);
+        		
+        Musica Kurt= new Musica("Kurt","2022",Japa);
+        		Slot s231 = new Slot(1, 231, Kurt);
+        		
+        Musica MiraInterludio= new Musica("MiraInterludio","2022",Japa);
+        		Slot s232 = new Slot(1, 232, MiraInterludio);
+        		
+        		
+
+        		Musica NeSegredo= new Musica("NeSegredo","2020",MCCabelinho);
+        		Slot s233 = new Slot(1, 233, NeSegredo);
+        		
+        		Musica Posturadao= new Musica("Posturadao","2020",FilipeRet);
+        		Slot s234 = new Slot(1, 234, Posturadao);
+        		
+        		Musica Maturidade= new Musica("Maturidade","2020",KayBlack);
+        		Slot s235 = new Slot(1, 235, Maturidade);
+        		
+        		Musica a7Meiota= new Musica("7Meiota","2020",FilipeRet);
+        		Slot s236 = new Slot(1, 236, a7Meiota);
+        		
+        		Musica Kweller202= new Musica("202","2020",Kweller);
+        		Slot s237 = new Slot(1, 237, Kweller202);
+        		
+        		Musica ConhecoBem= new Musica("ConhecoBem","2020",Kweller);
+        		Slot s238 = new Slot(1, 238, ConhecoBem);
+        		
+        		Musica Dior= new Musica("Dior","2020",BIN);
+        		Slot s239 = new Slot(1, 239, Dior);
+        		
+        		Musica Bahia= new Musica("Bahia","2020",Alee);
+        		Slot s240 = new Slot(1, 240, Bahia);
+        		
+        		Musica OutroPatamar= new Musica("OutroPatamar","2020",BIN);
+        		Slot s241 = new Slot(1, 241, OutroPatamar);
+        		
+        		Musica Ochamado= new Musica("Ochamado","2020",Chefin);
+        		Slot s242 = new Slot(1, 242, Ochamado);
+        		
+        		Musica Chefin212= new Musica("212","2020",Chefin);
+        		Slot s243 = new Slot(1, 243, Chefin212);
+        		
+        		Musica Pandora= new Musica("Pandora","2020",DJMattD);
+        		Slot s244 = new Slot(1, 244, Pandora);
+        		
+        		Musica FFM= new Musica("F*F*M*","2020",FilipeRet);
+        		Slot s245 = new Slot(1, 245, FFM);
+        		
+        		Musica CoopedUp= new Musica("CoopedUp","2020",PostMalone);
+        		Slot s246 = new Slot(1, 246, CoopedUp);
+        		
+        		Musica ICEONMYWRIST= new Musica("ICEONMYWRIST","2021",Derek);
+        		Slot s247 = new Slot(1, 247, ICEONMYWRIST);
+        		
+        		Musica Insane= new Musica("Insane","2020",PostMalone);
+        		Slot s248 = new Slot(1, 248, Insane);
+        		
+        		Musica WrappedAroundYourFinger= new Musica("WrappedAroundYourFinger","2020",PostMalone);
+        		Slot s249 = new Slot(1, 249, WrappedAroundYourFinger);
+        		
+        		Musica ILikeYou= new Musica("ILikeYou","2020",PostMalone);
+        		Slot s250 = new Slot(1, 250, ILikeYou);
+        		
+        		Musica ICannotBe= new Musica("ICannotBe","2020",PostMalone);
+        		Slot s251 = new Slot(1, 251, ICannotBe);
+        		
+        		Musica LoveHate= new Musica("Love/Hate","2020",PostMalone);
+        		Slot s252 = new Slot(1, 252, LoveHate);
+        		
+        		Musica Euthanasia= new Musica("Euthanasia","2020",PostMalone);
+        		Slot s253 = new Slot(1, 253, Euthanasia);
+        		
+        		Musica WhenImAlone= new Musica("WhenImAlone","2020",PostMalone);
+        		Slot s254 = new Slot(1, 254, WhenImAlone);
+        		
+        		Musica Hateful= new Musica("Hateful","2020",PostMalone);
+        		Slot s255 = new Slot(1, 255, Hateful);
+        		
+        		Musica Gangshit= new Musica("gangshit","2021",Derek);
+        		Slot s256 = new Slot(1, 256, Gangshit);
+        		
+        		Musica Circles= new Musica("Circles","2020",PostMalone);
+        		Slot s257 = new Slot(1, 257, Circles);
+        		
+        		Musica BondeDaFumaca= new Musica("Bonde da Fumaca","2021",Derek);
+        		Slot s258 = new Slot(1, 258, BondeDaFumaca);
+        		
+        		Musica MlksDeSP= new Musica("Mlks de SP","2020",Derek);
+        		Slot s259 = new Slot(1, 259, MlksDeSP);
+        		
+        		Musica HollywoodsBleeding= new Musica("HollywoodsBleeding","2020",PostMalone);
+        		Slot s260 = new Slot(1, 260, HollywoodsBleeding);
+        		
+        		Musica DieForMe= new Musica("DieForMe","2020",PostMalone);
+        		Slot s261 = new Slot(1, 261, DieForMe);
+        		
+        		Musica OnTheRoad= new Musica("OnTheRoad","2020",PostMalone);
+        		Slot s262 = new Slot(1, 262, OnTheRoad);
+        		
+        		Musica TakaWhatYouWant= new Musica("TakaWhatYouWant","2020",PostMalone);
+        		Slot s263 = new Slot(1, 263, TakaWhatYouWant);
+        		
+        		Musica ImGonnaBe= new Musica("ImGonnaBe","2020",PostMalone);
+        		Slot s264 = new Slot(1, 264, ImGonnaBe);
+        		
+        		Musica Internet= new Musica("Internet","2020",PostMalone);
+        		Slot s265 = new Slot(1, 265, Internet);
+        		
+        		Musica Plaqtudum= new Musica("Plaqtudum","2018",Derek);
+        		Slot s266 = new Slot(1, 266, Plaqtudum);
+        		
+        		Musica FlackJack= new Musica("FlackJack","2018",Derek);
+        		Slot s267 = new Slot(1, 267, FlackJack);
+        		
+        		Musica Myself= new Musica("Myself","2020",PostMalone);
+        		Slot s268 = new Slot(1, 268, Myself);
+        		
+        		Musica Iknow= new Musica("Iknow","2020",PostMalone);
+        		Slot s269 = new Slot(1, 269, Iknow);
+        		
+        		Musica WOW= new Musica("WOW","2020",PostMalone);
+        		Slot s270 = new Slot(1, 270, WOW);
+        		
+        		Musica Paranoid= new Musica("Paranoid","2020",PostMalone);
+        		Slot s271 = new Slot(1, 271, Paranoid);
+        		
+        		Musica SpoilMyNight= new Musica("SpoilMyNight","2020",PostMalone);
+        		Slot s272 = new Slot(1, 272, SpoilMyNight);
+        		
+        		Musica RichESad= new Musica("Rich&Sad","2020",PostMalone);
+        		Slot s273 = new Slot(1, 273, RichESad);
+        		
+        		Musica ZackAndCodeine= new Musica("ZackAndCodeine","2020",PostMalone);
+        		Slot s274 = new Slot(1, 274, ZackAndCodeine);
+        		
+        		Musica TakinShots= new Musica("TakinShots","2020",PostMalone);
+        		Slot s275 = new Slot(1, 275, TakinShots);
+        		
+        		Musica Rockstar= new Musica("Rockstar","2020",PostMalone);
+        		Slot s276 = new Slot(1, 276, Rockstar);
+        		
+        		Musica OverNow= new Musica("OverNow","2020",PostMalone);
+        		Slot s277 = new Slot(1, 277, OverNow);
+        		
+        		Musica Uzi2= new Musica("Uzi 2","2018",Derek);
+        		Slot s278 = new Slot(1, 278, Uzi2);
+        		
+        		Musica Doko= new Musica("Doko","2016",McIgu);
+        		Slot s279 = new Slot(1, 279, Doko);
+        		
+        		Musica BallForMe= new Musica("BallForMe","2020",PostMalone);
+        		Slot s280 = new Slot(1, 280, BallForMe);
+        		
+        		Musica Otherside= new Musica("Otherside","2020",PostMalone);
+        		Slot s281 = new Slot(1, 281, Otherside);
+        		
+        		Musica AkDoJapao = new Musica("Ak do japao","2020",McIgu);
+        		Slot s282 = new Slot(1, 282, AkDoJapao);
+        		
+        		Musica BlameItOnMe= new Musica("BlameItOnMe","2020",PostMalone);
+        		Slot s283 = new Slot(1, 283, BlameItOnMe);
+        		
+        		Musica SameBitches= new Musica("SameBitches","2020",PostMalone);
+        		Slot s284 = new Slot(1, 284, SameBitches);
+        		
+        		Musica Jonestown= new Musica("Jonestown","2020",PostMalone);
+        		Slot s285 = new Slot(1, 285, Jonestown);
+        		
+        		Musica a92Explorer= new Musica("92Explorer","2020",PostMalone);
+        		Slot s286 = new Slot(1, 286, a92Explorer);
+        		
+        		Musica Franca= new Musica("Franca","2018",McIgu);
+        		Slot s287 = new Slot(1, 287, Franca);
+        		
+        		Musica SugarWraith= new Musica("SugarWraith","2020",PostMalone);
+        		Slot s288 = new Slot(1, 288, SugarWraith);
+        		
+        		Musica BigLie= new Musica("BigLie","2020",PostMalone);
+        		Slot s289 = new Slot(1, 289, BigLie);
+        		
+        		Musica DejaVu= new Musica("DejaVu","2020",PostMalone);
+        		Slot s290 = new Slot(1, 290, DejaVu);
+        		
+        		Musica NoOption= new Musica("NoOption","2020",PostMalone);
+        		Slot s291 = new Slot(1, 291, NoOption);
+        		
+        		Musica Cold= new Musica("Cold","2020",PostMalone);
+        		Slot s292 = new Slot(1, 292, Cold);
+        		
+        		Musica Patient= new Musica("Patient","2020",PostMalone);
+        		Slot s293 = new Slot(1, 293, Patient);
+        		
+        		Musica GoFlex= new Musica("GoFlex","2020",PostMalone);
+        		Slot s294 = new Slot(1, 294, GoFlex);
+        		
+        		Musica Feel= new Musica("Feel","2020",PostMalone);
+        		Slot s295 = new Slot(1, 295, Feel);
+        		
+        		Musica TooYoug= new Musica("TooYoug","2020",PostMalone);
+        		Slot s296 = new Slot(1, 296, TooYoug);
+        		
+        		Musica Congratulations= new Musica("Congratulations","2020",PostMalone);
+        		Slot s297 = new Slot(1, 297, Congratulations);
+        		
+        		Musica UpThere= new Musica("UpThere","2020",PostMalone);
+        		Slot s298 = new Slot(1, 298, UpThere);
+        		
+        		Musica Leave= new Musica("Leave","2020",PostMalone);
+        		Slot s299 = new Slot(1, 299, Leave);
+        		
+        		Musica HitThisHard= new Musica("HitThisHard","2020",PostMalone);
+        		Slot s300 = new Slot(1, 300, HitThisHard);
+        		
+        		
+        		
+       
 		
 
 		Musica ComoEuTeQuero = new Musica("Como eu Te Quero", "2009", BlackAlien);
