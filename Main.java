@@ -3340,10 +3340,503 @@ public class Main {
                 Slot  j219 = new  Slot ( 11 , 219 , RejeiteFalsosIcones);
                 
                 Slot  j220 = new  Slot ( 11 , 220 , CountOnMe);
+                
+                Slot j221 = new Slot(11, 221, Otherside);
+                
+            
+                
+                Slot j222 = new Slot(11, 222, AkDoJapao);
+                
+                
+                Slot j223 = new Slot(11, 223, BlameItOnMe);
+                
+                
+                Slot j224 = new Slot(11, 224, SameBitches);
+                
+                
+                Slot j225 = new Slot(11, 225, Jonestown);
+                
+                
+                Slot j226 = new Slot(11, 226, a92Explorer);
+                
+                
+                Slot j227 = new Slot(11, 227, Franca);
+                
+                
+                Slot j228 = new Slot(11, 228, SugarWraith);
+                
+                
+                Slot j229 = new Slot(11, 229, BigLie);
+                
+                
+                Slot j290 = new Slot(11, 230, DejaVu);
+                
+                
+                Slot j231 = new Slot(11, 231, NoOption);
+                
+                
+                Slot j232 = new Slot(11, 232, Cold);
+    
+                
+                Slot j233 = new Slot(11, 233, Patient);
+                
+                
+                Slot j234 = new Slot(11, 234, GoFlex);
+                
+                
+                Slot j235 = new Slot(11, 235, Feel);
+                
+                
+                Slot j236 = new Slot(11, 236, TooYoug);
+                
+                
+                Slot j237 = new Slot(11, 237, Congratulations);
+                
+                
+                Slot j238 = new Slot(11, 238, UpThere);
+                
+                
+                Slot j239 = new Slot(11, 239, Leave);
+                
+                
+                Slot j240 = new Slot(11, 240, HitThisHard);
+
+                
+                Slot j241 = new Slot(11, 241, Quarto);
+                
+        
+                Slot  j242 = new Slot(11, 242, Arigato);
+                
+        
+                Slot j243 = new Slot(11, 243, Playboy);
+                
+       
+                Slot j244 = new Slot(11, 244, Japao);
+                
+        
+                Slot  j245 = new Slot(11, 245, NoTies);
+                
+                Slot  j246 = new Slot(11, 246, VVS);
+                
+       
+                Slot  j247 = new Slot(11, 247, DNA);
+                
+       
+                Slot  j248 = new Slot(11, 248, AguasRasas);
+                
+       
+                Slot  j249 = new Slot(11, 249, YE);
+                
+       
+                Slot  j250 = new Slot(11, 250, DreamGirl);
+                
+        
+                Slot j251 = new Slot(11, 251, Kurt);
+                
+        
+                Slot j252 = new Slot(11, 252, MiraInterludio);
+                
+                
+
+                
+                Slot j253 = new Slot(11, 255, NeSegredo);
+                
+                
+                Slot j254 = new Slot(11, 254, Posturadao);
+                
+                
+                Slot j255 = new Slot(11, 255, Maturidade);
+                
+                
+                Slot j256 = new Slot(11, 256, a7Meiota);
+                
+                
+                Slot j257 = new Slot(11, 257, Kweller202);
+                
+                
+                Slot j258 = new Slot(11, 258, ConhecoBem);
+                
+                
+                Slot j259 = new Slot(11, 259, Dior);
+                
+                
+                Slot j260 = new Slot(11, 260, Bahia);
+                
+                Slot j261 = new Slot(11, 261, Paranoid);
+            
+                Slot j262 = new Slot(11, 262, SpoilMyNight);    
+                
+                
+                Slot j263 = new Slot(11, 263, RichESad);
+                
+                
+                Slot j264 = new Slot(11, 264, ZackAndCodeine);
+                
+                
+                Slot j265 = new Slot(11, 265, TakinShots);
+                
+                
+                Slot j266 = new Slot(11, 266, Rockstar);
+                
+                
+                Slot j267 = new Slot(11, 267, OverNow);
+                
+                Slot j268 = new Slot(11, 268, Uzi2);
+                
+                
+                
+                Slot j269 = new Slot(11, 269, Doko);
+
+                Slot j270 = new Slot(11, 260, WOW);
+
+                
+                Slot j271 = new Slot(11, 271, OutroPatamar);
+                
+                
+                Slot j272 = new Slot(11, 272, Ochamado);
+                
+                
+                Slot j273 = new Slot(11, 273, Chefin212);
+                
+                
+                Slot j274 = new Slot(11, 274, Pandora);
+                
+                Slot j275 = new Slot(11, 275, FFM);
+                
+                
+                Slot j276 = new Slot(11, 276, CoopedUp);
+                
+                
+                Slot j277 = new Slot(11, 277, ICEONMYWRIST);
+                
+                
+                Slot j278 = new Slot(11, 278, Insane);
+                
+                
+                Slot j279 = new Slot(11, 279, WrappedAroundYourFinger);
+                
+                
+                Slot j280 = new Slot(11, 280, ILikeYou);
+                
+                
+                Slot j281 = new Slot(11, 281, ICannotBe);
+                
+                
+                Slot j282 = new Slot(11, 282, LoveHate);
+                
+                
+                Slot j283 = new Slot(11, 283, Euthanasia);
+                
+                
+                Slot j284 = new Slot(11, 284, WhenImAlone);
+                
+                
+                Slot j285 = new Slot(11, 285, Hateful);
+                
+                
+                Slot j286 = new Slot(11, 286, Gangshit);
+                
+                
+                Slot j287 = new Slot(11, 287, Circles);
+                
+                
+                Slot j288 = new Slot(11, 288, BondeDaFumaca);
 
 		      
-		         
-		         
+//===============================================================
+// dia 21
+                
+                
+                Slot u1=  new Slot(21,1, Pandora);
+                Slot u2=  new Slot(21,2, FFM);
+                Slot u3=  new Slot(21,3, CoopedUp);
+                Slot u4=  new Slot(21, 4,LemonTree);
+                Slot u5=  new Slot(21,5, Insane);
+                Slot u6=  new Slot(21,6, WrappedAroundYourFinger);
+                Slot u7=  new Slot(21,7, ILikeYou);
+                Slot u8=  new Slot(21,8, ICannotBe);
+                Slot u9=  new Slot(21,9, LoveHate);
+                Slot u10=  new Slot(21,10, Euthanasia);
+                Slot u11=  new Slot(21,11, WhenImAlone);
+                Slot u12=  new Slot(21,12, Hateful);
+                Slot u13=  new Slot(21,13, Allergic);
+                Slot u14=  new Slot(21,14, Circles);
+                Slot u15=  new Slot(21,15, Enemies);
+                Slot u16=  new Slot(21, 16, SaintTropez);
+                Slot u17=  new Slot(21,17, HollywoodsBleeding);
+                Slot u18=  new Slot(21,18, DieForMe);
+                Slot u19=  new Slot(21,89, OnTheRoad);
+                Slot u20=  new Slot(21,20, TakaWhatYouWant);
+                Slot u21=  new Slot(21,21, ImGonnaBe);
+                Slot u22=  new Slot(21,22, Internet);
+                Slot u23=  new Slot(21,23,Sunflower);
+                Slot u24=  new Slot(21,24, Goodbyes);
+                Slot u25=  new Slot(21,25,Myself);
+                Slot u26=  new Slot(21,26, Iknow);
+                Slot u27=  new Slot(21,27, WOW);
+                Slot u28=  new Slot(21,28, Paranoid);
+                Slot u29=  new Slot(21,29, SpoilMyNight);
+                Slot u30=  new Slot(21,30, RichESad);
+                Slot u31=  new Slot(21,31, ZackAndCodeine);
+                Slot u32=  new Slot(21,32, TakinShots);
+                Slot u33=  new Slot(21,33, Rockstar);
+                Slot u34=  new Slot(21,34, OverNow);
+                Slot u35=  new Slot(21,35, Psycho);
+                Slot u36=  new Slot(21,36, BetterNow);
+                Slot u37=  new Slot(21,37,BallForMe);
+                Slot u38=  new Slot(21,38, Otherside);
+                Slot u39=  new Slot(21,39, Stay);
+                Slot u40=  new Slot(21,40, BlameItOnMe);
+                Slot u41=  new Slot(21,41, SameBitches);
+                Slot u42=  new Slot(21,42, Jonestown);
+                Slot u43=  new Slot(21,43, a92Explorer);
+                Slot u44=  new Slot(21,44, CandyPaint);
+                Slot u45=  new Slot(21,45, SugarWraith);
+                Slot u46=  new Slot(21,46, BigLie);
+                Slot u47=  new Slot(21,47, DejaVu);
+                Slot u48=  new Slot(21,48, NoOption);
+                Slot u49=  new Slot(21,49, Cold);
+                Slot u50=  new Slot(21,50, Patient);
+                Slot u51=  new Slot(21,51, GoFlex);
+                Slot u52=  new Slot(21,52, Feel);
+                Slot u53=  new Slot(21,53, TooYoug);
+                Slot u54=  new Slot(21,54, Congratulations);
+                Slot u55=  new Slot(21,55, UpThere);
+                Slot u56=  new Slot(21,56, Leave);
+                Slot u57=  new Slot(21,57, HitThisHard);
+                Slot u58=  new Slot(21,58, Quarto);
+                Slot u59=  new Slot(21,59, Arigato);
+                Slot u60=  new Slot(21,60, Playboy);
+                Slot u61=  new Slot(21,61, Japao);
+                Slot u62=  new Slot(21,62, NoTies);
+                Slot u63=  new Slot(21,63, VVS);
+                Slot u64=  new Slot(21,64, DNA);
+                Slot u65=  new Slot(21,65, AguasRasas);
+                Slot u66=  new Slot(21,66, YE);
+                Slot u67=  new Slot(21,67, DreamGirl);
+                Slot u68=  new Slot(21,68, Kurt);
+                Slot u69=  new Slot(21,69, MiraInterludio);
+                Slot u70=  new Slot(21,70, MiamiVice);
+                Slot u71=  new Slot(21,71, Wave);
+                Slot u72=  new Slot(21, 72, Vlife);
+                Slot u73=  new Slot(21, 73, Margiela);
+                Slot u74=  new Slot(21,74, WaterWater);
+                Slot u75=  new Slot(21,75, OnlyFans);
+                Slot u76=  new Slot(21,76, Lilas);
+                Slot u77=  new Slot(21,77, Highlights);
+                Slot u78=  new Slot(21,78, a30Dias);
+                Slot u79=  new Slot(21,79, RSS);
+                Slot u80=  new Slot(21,80, LuisaSonza);
+                Slot u81=  new Slot(21,81, ScoobyDoo);
+                Slot u82=  new Slot(21,82, a360);
+                Slot u83=  new Slot(21,83, ITOLDYOU);
+                Slot u84=  new Slot(21,84, ForReal);
+                Slot u85=  new Slot(21, 85, NoCap);
+                Slot u86=  new Slot(21,86, FeFeFe);
+                Slot u87=  new Slot(21,87, EuTenhoDrip);
+                Slot u88=  new Slot(21,88, KylieJenner);
+                Slot u89=  new Slot(21,89, PlayboyInternacional);
+                Slot u90=  new Slot(21,90, Vilao);
+                Slot u91=  new Slot(21,91, Monstro);
+                Slot u92=  new Slot(21,92, HayabusaChromo);
+                Slot u93=  new Slot(21,93, DriftDeYasuo);
+                Slot u94=  new Slot(21,94, KatanaEPistola);
+                Slot u95=  new Slot(21,95, RidersX);
+                Slot u96=  new Slot(21,96, a7K);
+                Slot u97=  new Slot(21,97, NewWave);
+                Slot u98=  new Slot(21,98, OSegredoAlemDoJardim);
+                Slot u99=  new Slot(21,99, Ninja);
+                Slot u100=  new Slot(21,100, Piloto);
+                Slot u101=  new Slot(21,101, Pleasurekreft);
+                Slot u102=  new Slot(21,102, California);
+                Slot u103=  new Slot(21,103, AutumnRingMini);
+                Slot u104=  new Slot(21,104, SuzukiEscudo);
+                Slot u105=  new Slot(21,105, Autobahn);
+                Slot u106=  new Slot(21,106, AkatsukiDeVila);
+                Slot u107=  new Slot(21,107, JesusChorouPt2);
+                Slot u108=  new Slot(21,108, SemSinal);
+                Slot u109=  new Slot(21,109, RejeiteFalsosIcones);
+                Slot u110=  new Slot(21,110, Vampiro);
+                Slot u111=  new Slot(21,111, SemDo);
+                Slot u112=  new Slot(21,112, Groupies);
+                Slot u113=  new Slot(21,113, QuerVoar);
+                Slot u114=  new Slot(21,114, M4);
+                Slot u115=  new Slot(21,115, Banco);
+                Slot u116=  new Slot(21,116, AMorteDoAutotune);
+                Slot u117=  new Slot(21,117, QuemMandaEA30);
+                Slot u118=  new Slot(21,118, BalAzul);
+                Slot u119=  new Slot(21,119, TavaBom);
+                Slot u120=  new Slot(21,120, UmaBala);
+                Slot u121=  new Slot(21,121, KennyG);
+                Slot u122=  new Slot(21,122, a777666);
+                Slot u123=  new Slot(21,123, Antes);
+                Slot u124=  new Slot(21,124, ESal);
+                Slot u125=  new Slot(21,125, MaquinaDoTempo);
+                Slot u126=  new Slot(21,126, Cogulandia);
+                Slot u127=  new Slot(21,127, Manha);
+                Slot u128=  new Slot(21,128, DiaAzul);
+                Slot u129=  new Slot(21,129, Fashion);
+                Slot u130=  new Slot(21,130, ComeOn );         
+                Slot u131=  new Slot(21,131, RockNRoll );
+                Slot u132=  new Slot(21,132, Location );
+                Slot u133=  new Slot(21,133, AmericaTeen );
+                Slot u134=  new Slot(21,134, Grenade );
+                Slot u135=  new Slot(21,135, CountOnMe );
+                Slot u136=  new Slot(21,136, MarryYou );
+                Slot u137=  new Slot(21,137, Photograph );
+                Slot u138=  new Slot(21,138, ShapeOfYou);
+                Slot u139=  new Slot(21,139, Perfect );
+                Slot u140=  new Slot(21,140, LouisVMeninaLinda);
+                Slot u141=  new Slot(21, 141, NaoMeSintoMAlMais);
+                Slot u142=  new Slot(21,142, EstacionaEDesce);
+                Slot u143=  new Slot(21,143, AiPreto);
+                Slot u144=  new Slot(21,144, Perdicao);
+                Slot u145=  new Slot(21,145, SeiQueTuGostaMuito);
+                Slot u146=  new Slot(21,146, Metflix);
+                Slot u147=  new Slot(21,147, SenteAMarra);
+                Slot u148=  new Slot(21,148, ACaraDocrime2);
+                Slot u149=  new Slot(21,149, Baby );
+                Slot u150=  new Slot(21,150, OneTime );
+                Slot u151=  new Slot(21,151, Marquinha );
+                Slot u152=  new Slot(21,152, Silence );
+                Slot u153=  new Slot(21,153, Happier );
+                Slot u154=  new Slot(21,154, Yellow );
+                Slot u155=  new  Slot(21,155, FixYou );
+                Slot u156=  new  Slot(21 , 156 , VivaLaVida );
+                Slot u157=  new  Slot(21 , 157 , LoveOfMine);
+                Slot u158=  new  Slot(21 , 158 , Beliver );
+                Slot u159=  new  Slot(21 , 159 , Birds );
+                Slot u160=  new  Slot(21 , 160 , Chanel );
+                Slot u161=  new  Slot(21 , 161 , Nights );
+                Slot u162=  new  Slot(21 , 162 , A505 );
+                Slot u163=  new  Slot(21 , 163 , JaVirouRotina );
+                Slot u164=  new Slot(21, 164, Agua);
+                Slot u165=  new Slot(21, 165, OkBaby);
+                Slot u166=  new Slot(21, 166, Rn);
+                Slot u167=  new Slot(21, 167, Dejavu);
+                Slot u168=  new Slot(21, 168, Osaka);
+                Slot u169=  new Slot(21, 169, Kyoto);
+                Slot u170=  new Slot(21, 170, DieForYou);
+                Slot u171=  new Slot(21, 171, a2036);
+                Slot u172=  new Slot(21, 172, High);
+                Slot u173=  new Slot(21, 173, SpikeLee);
+                Slot u174=  new Slot(21, 174, Yokono);
+                Slot u175=  new Slot(21, 175, ComoEuTeQuero);
+                Slot u176=  new Slot(21, 176, Salao);
+                Slot u177=  new Slot(21, 177, QuemEQuem);
+                Slot u178=  new  Slot (21, 178 , CavaloDeTroia );
+                Slot u179=  new  Slot (21, 179 , Cracolandia );
+                Slot u180=  new  Slot (21, 180 , Sunflower );
+                Slot u181=  new  Slot (21, 181 , internet );
+                Slot u182=  new  Slot (21, 182 , Enemies );
+                Slot u183=  new  Slot (21, 183 , NeverSayNever );
+                Slot u184=  new  Slot (21, 184, NoisTaBolandoUmPlano );
+                Slot u185=  new  Slot (21, 185 , MacaVerde );
+                Slot u186=  new  Slot (21, 186 , TiraDeGiro );
+                Slot u187=  new  Slot (21, 187 , MoBrisa );
+                Slot u188=  new  Slot (21, 188 , PraTeVer );
+                Slot u189=  new  Slot (21, 189 , LeiDoRetorno );
+                Slot u190=  new  Slot (21, 190 , Obssessao );
+                Slot u191=  new  Slot (21, 191 , QuemTemDo );
+                Slot u192=  new  Slot (21, 192 , CoracaoNaGeladeira);
+                Slot u193=  new  Slot (21, 193 , Ressaca );
+                Slot u194=  new  Slot (21, 194 , LV );
+                Slot u195=  new  Slot (21, 195 , JogaBola );
+                Slot u196=  new  Slot (21, 196 , Clima );
+                Slot u197=  new  Slot (21, 197 , Vencedores );
+                Slot u198=  new Slot(21,198, LagrimasDecrocodilo);
+                Slot u199=  new Slot(21,199, Obraz);
+                Slot u200=  new Slot(21, 200, Mantem);
+                Slot u201=  new Slot(21,201, Sucrilhos);
+                Slot u202=  new Slot(21,202, OCaveiraoChegou);
+                Slot u203=  new Slot(21,203, OMaestroDosFluxos);
+                Slot u204=  new Slot(21,204, HinoDosParedoes);
+                Slot u205=  new Slot(21,205, Liberdade);
+                Slot u206=  new Slot(21, 206, MegaRaveSemChao);
+                Slot u207=  new Slot(21,207, RaveDaSirene);
+                Slot u208=  new Slot(21,208, IrmaGostosa);
+                Slot u209=  new Slot(21,209, FazerFalta);
+                Slot u210=  new Slot(21,210, SenteAMarra);
+                Slot u211=  new  Slot (21, 211 , Bailao );
+                Slot u212=  new  Slot (21, 212 , Cavalinho );
+                Slot u213=  new  Slot (21, 213 , JaguarDoAno );
+                Slot u214=  new  Slot (21, 214 , VidaDeArtista );
+                Slot u215=  new  Slot (21, 215 , PassarDeFoguetao );
+                Slot u216=  new Slot(21,216, DinheiroMeSonda);
+                Slot u217=  new Slot(21, 217, Forbes);
+                Slot u218=  new Slot(21,218, ElaRebolaPraMimeSenta);
+                Slot u219=  new Slot(21,219, Marquinha);
+                Slot u220=  new Slot(21, 220, MeninoBom);
+                Slot u221=  new Slot(21, 221, Flash);
+                Slot u222=  new Slot(21,222, Medina);
+                Slot u223=  new Slot(21,223, TipoGTA);
+                Slot u224=  new Slot(21,224, NaoPisaNoMeuBoot);
+                Slot u225=  new Slot(21,225, OPaiTaOn);
+                Slot u226=  new Slot(21,226, SeSegura);
+                Slot u227=  new Slot(21,227, VestidoDaFendi);
+                Slot u228=  new Slot(21,228, Licor43);
+                Slot u229=  new Slot(21,229, Lembrancas);
+                Slot u230=  new Slot(21, 230, Tralha);
+                Slot u231=  new Slot(21,231, FogueteDaNasa);
+                Slot u232=  new Slot(21,232, Freestyle);
+                Slot u233=  new  Slot (21 , 233 , Brasa );
+                Slot u234=  new  Slot (21, 234 , Lucidez );
+                Slot u235=  new  Slot (21,235 , Envolver );
+                Slot u236=  new Slot(21,236, Oracao);
+                Slot u237=  new Slot(21,237, Progresso);
+                Slot u238=  new Slot(21,238, DizQueEHoje);
+                Slot u239=  new Slot(21,239, Felina);
+                Slot u240=  new Slot(21,240, Sertao);
+                Slot u241=  new Slot(21,241, AmigaTalarica);
+                Slot u242=  new Slot(21,242, Pitbull);
+                Slot u243=  new  Slot (21, 243 , LaLoto );
+                Slot u244=  new  Slot (21, 244 , VersionofMe);
+                Slot u245=  new  Slot (21, 245 , WaterlmelonSugar );
+                Slot u246=  new  Slot (21, 246 , AtItWas );
+                Slot u247=  new  Slot (21, 247 , Matilda );
+                Slot u248=  new  Slot (21, 248 , BetterNow );
+                Slot u249=  new  Slot (21, 249 , Psycho );
+                Slot u250=  new  Slot (21, 250 , Boyfriend );
+                Slot u251=  new  Slot (21, 251 , Allergic );
+                Slot u252=  new  Slot (21, 252 , SaintTropez );
+                Slot u253=  new  Slot (21, 253 , Somebody );
+                Slot u254=  new  Slot (21, 254 , Doutora3 );
+                Slot u255=  new Slot(21,255, CalendarioDoPapai);
+                Slot u256=  new Slot(21,256, ToGostandoTantoDeVoce);
+                Slot u257=  new Slot(21, 257, Reputation);
+                Slot u258=  new Slot(21, 258, Prada);
+                Slot u259=  new Slot(21, 259, POCPOC);
+                Slot u260=  new Slot(21, 260, JackBauer);
+                Slot u261=  new Slot(21, 261, Honda);
+                Slot u262=  new Slot(21, 262, TT);
+                Slot u263=  new Slot(21, 263, Rush);
+                Slot u264=  new Slot(21, 264, Balenciaga);
+                Slot u265=  new Slot(21, 265, LV);
+                Slot u266=  new Slot(21, 266, Snakes);
+                Slot u267=  new Slot(21, 267, Mob);
+                Slot u268=  new Slot(21, 268, NovoRico);
+                Slot u269=  new Slot(21, 269, Netflix);
+                Slot u270=  new Slot(21, 270, Dinero);
+                Slot u271=  new Slot(21, 271, VidaDeChafe);
+                Slot u272=  new Slot(21, 272, TipoGiroflex);
+                Slot u273=  new Slot(21, 273, OPretoMaiscaro);
+                Slot u274=  new Slot(21,274, DoubleCup);
+                Slot u275=  new Slot(21,275, Evoque);
+                Slot u276=  new Slot(21,276, a212Vip);
+                Slot u277=  new Slot(21,277, Congratulation);
+                Slot u278=  new  Slot(21,278, LemonTree );
+                Slot u279=  new Slot (21,279, Stay );
+                Slot u280=  new Slot (21,280, Circle );
+                Slot u281=  new Slot (21,281, CandyPaint );
+                Slot u282=  new Slot (21,282, Goodbyes);
+                Slot u283=  new Slot(21,283, Grenade );
+                Slot u284=  new Slot(21,284, CountOnMe );
+                Slot u285=  new Slot(21,285, MarryYou );
+                Slot u286=  new Slot(21,286, Photograph );
+                Slot u287=  new Slot(21,287, ShapeOfYou);
+                Slot u288=  new Slot(21,288, Perfect );
+                
+                
 	            
 //================================================================
 // inserindo dia 1 
