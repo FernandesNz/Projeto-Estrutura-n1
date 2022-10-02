@@ -1028,6 +1028,13 @@ public class Main {
         		Musica SpoilMyNight= new Musica("SpoilMyNight","2020",PostMalone);
         		Slot s272 = new Slot(1, 272, SpoilMyNight);
         		
+        		
+        		
+        		
+        		
+        		
+        		
+        		
         		Musica RichESad= new Musica("Rich&Sad","2020",PostMalone);
         		Slot s273 = new Slot(1, 273, RichESad);
         		
@@ -1054,6 +1061,10 @@ public class Main {
         		
         		Musica Otherside= new Musica("Otherside","2020",PostMalone);
         		Slot s281 = new Slot(1, 281, Otherside);
+        		
+        		
+        		
+        		
         		
         		Musica AkDoJapao = new Musica("Ak do japao","2020",McIgu);
         		Slot s282 = new Slot(1, 282, AkDoJapao);
@@ -1087,6 +1098,12 @@ public class Main {
         		
         		Musica Cold= new Musica("Cold","2020",PostMalone);
         		Slot s292 = new Slot(1, 292, Cold);
+        		
+        		
+        		
+        		
+        		
+        		
         		
         		Musica Patient= new Musica("Patient","2020",PostMalone);
         		Slot s293 = new Slot(1, 293, Patient);
@@ -1125,7 +1142,7 @@ public class Main {
 		
 		
 //================================================================
-// dia 2 
+// dia 2 - Matheus
 		
 				Slot a1 = new Slot(2,1, MiamiVice);
 		
@@ -1567,10 +1584,157 @@ public class Main {
 				
 				Slot a220 = new Slot(2, 220, Reputation);
 				
+        		Slot a221 = new Slot(2, 221, Patient);
+        		
+        		Slot a222 = new Slot(2, 222, GoFlex);
+        		
+        		Slot a223 = new Slot(2, 223, Feel);
+        		
+        		Slot a224 = new Slot(2, 224, TooYoug);
+        		
+        		Slot a225 = new Slot(2, 225, Congratulations);
+        		
+        		Slot a226 = new Slot(2, 226, UpThere);
+        		
+        		Slot a227 = new Slot(2, 227, Leave);
+        		
+        		Slot a228 = new Slot(2, 228, HitThisHard);
 				
+        		Slot a229 = new Slot(2, 229, NeSegredo);
+        		
+        		Slot a230 = new Slot(2, 230, Posturadao);
+        		
+        		Slot a231 = new Slot(2, 231, Maturidade);
+        		
+        		Slot a232 = new Slot(2, 232, a7Meiota);
+        		
+        		Slot a233 = new Slot(2, 233, Kweller202);
+        		
+        		Slot a234 = new Slot(2, 234, ConhecoBem);
+        		
+        		Slot a235 = new Slot(2, 235, Dior);
+        		
+        		Slot a236 = new Slot(2, 236, Bahia);
+        		
+        		Slot a237 = new Slot(2, 237, OutroPatamar);
+        		
+        		Slot a238 = new Slot(2, 238, Ochamado);
+        		
+        		Slot a239 = new Slot(2, 239, Chefin212);
+        		
+        		Slot a240 = new Slot(2, 240, Pandora);
+        		
+        		Slot a241 = new Slot(2, 241, FFM);
+        		
+        		Slot a242 = new Slot(2, 242, CoopedUp);
+     
+        		Slot a243 = new Slot(2, 243, ICEONMYWRIST);
+        		
+        		Slot a244 = new Slot(2, 244, Insane);
+        		
+        		Slot a245 = new Slot(2, 245, WrappedAroundYourFinger);
+        		
+        		Slot a246 = new Slot(2, 246, ILikeYou);
+        		
+        		Slot a247 = new Slot(2, 247, ICannotBe);
+        		
+        		Slot a248 = new Slot(2, 248, LoveHate);
+        		
+        		Slot a249 = new Slot(2, 249, Euthanasia);
+        		
+        		Slot a250 = new Slot(2, 250, WhenImAlone);
+        		
+        		Slot a251 = new Slot(2, 251, Hateful);
+        		
+        		Slot a252 = new Slot(2, 252, Gangshit);
+        		
+        		Slot a253 = new Slot(2, 253, Circles);
+        		
+        		Slot a254 = new Slot(2, 254, BondeDaFumaca);
+        		
+        		Slot a255 = new Slot(2, 255, MlksDeSP);
+        		
+        		Slot a256 = new Slot(2, 256, HollywoodsBleeding);
+        		
+        		Slot a257 = new Slot(2, 257, DieForMe);
+        		
+        		Slot a258 = new Slot(2, 258, OnTheRoad);
+        		
+        		Slot a259 = new Slot(2, 259, TakaWhatYouWant);
+        		
+        		Slot a260 = new Slot(2, 260, ImGonnaBe);
+        		
+        		Slot a261 = new Slot(2, 261, Internet);
+        		
+        		Slot a262 = new Slot(2, 262, Plaqtudum);
+        		
+        		Slot a263 = new Slot(2, 263, FlackJack);
+        		
+        		Slot a264 = new Slot(2, 264, Myself);
+        		
+        		Slot a265 = new Slot(2, 265, Iknow);
+        		
+        		Slot a266 = new Slot(2, 266, WOW);
+        		
+        		Slot a267 = new Slot(2, 267, Paranoid);
+        		
+        		Slot a268 = new Slot(2, 268, SpoilMyNight);
+        		
+        		Slot a269 = new Slot(2, 269, AkDoJapao);
+        		
+        		Slot a270 = new Slot(2, 270, BlameItOnMe);
+        		
+        		Slot a271 = new Slot(2, 271, SameBitches);
+        		
+        		Slot a272 = new Slot(2, 272, Jonestown);
+        		
+        		Slot a273 = new Slot(2, 273, a92Explorer);
+        		
+        		Slot a274 = new Slot(2, 274, Franca);
+        		
+        		Slot a275 = new Slot(2, 275, SugarWraith);
+        		
+        		Slot a276 = new Slot(2, 276, BigLie);
+        		
+        		Slot a277 = new Slot(2, 277, DejaVu);
+        		
+        		Slot a278 = new Slot(2, 278, NoOption);
+        		
+        		Slot a279 = new Slot(2, 279, Cold);
+        		
+        		Slot a280 = new Slot(2, 280, Quarto);
+        			
+         		Slot a281 = new Slot(2, 281, Arigato);
+         		
+         		Slot a282 = new Slot(2, 282, Playboy);
+         		
+         		Slot a283 = new Slot(2, 283, Japao);
+         		
+         		Slot  a284 = new Slot(2, 284, NoTies);
+         		
+         		Slot  a285 = new Slot(2, 285, VVS);
+         		
+         		Slot  a286 = new Slot(2, 286, DNA);
+         		
+         		Slot  a287 = new Slot(2, 287, AguasRasas);
+         		
+         		Slot  a288 = new Slot(2, 288, YE);
+         		
+        		
+        		
+        		
+        		
+        		
+        		
+        		
+        		
+        		
+        		
+        		
+        		
 				
 //================================================================
-// dia 5 
+// dia 5 - Matheus
         
 	            Slot d1 = new Slot(5,1, MiamiVice);
 	    
@@ -2011,11 +2175,147 @@ public class Main {
 	            Slot d219 = new Slot(5,219, ToGostandoTantoDeVoce);
 	            
 	            Slot d220 = new Slot(5, 220, Reputation);
+	            
+	            Slot d221 = new Slot(5, 221, Patient);
+                
+                Slot d222 = new Slot(5, 222, GoFlex);
+                
+                Slot d223 = new Slot(5, 223, Feel);
+                
+                Slot d224 = new Slot(5, 224, TooYoug);
+                
+                Slot d225 = new Slot(5, 225, Congratulations);
+                
+                Slot d226 = new Slot(5, 226, UpThere);
+                
+                Slot d227 = new Slot(5, 227, Leave);
+                
+                Slot d228 = new Slot(5, 228, HitThisHard);
+                
+                Slot d229 = new Slot(5, 229, NeSegredo);
+                
+                Slot d230 = new Slot(5, 230, Posturadao);
+                
+                Slot d231 = new Slot(5, 231, Maturidade);
+                
+                Slot d232 = new Slot(5, 232, a7Meiota);
+                
+                Slot d233 = new Slot(5, 233, Kweller202);
+                
+                Slot d234 = new Slot(5, 234, ConhecoBem);
+                
+                Slot d235 = new Slot(5, 235, Dior);
+                
+                Slot d236 = new Slot(5, 236, Bahia);
+                
+                Slot d237 = new Slot(5, 237, OutroPatamar);
+                
+                Slot d238 = new Slot(5, 238, Ochamado);
+                
+                Slot d239 = new Slot(5, 239, Chefin212);
+                
+                Slot d240 = new Slot(5, 240, Pandora);
+                
+                Slot d241 = new Slot(5, 241, FFM);
+                
+                Slot d242 = new Slot(5, 242, CoopedUp);
+     
+                Slot d243 = new Slot(5, 243, ICEONMYWRIST);
+                
+                Slot d244 = new Slot(5, 244, Insane);
+                
+                Slot d245 = new Slot(5, 245, WrappedAroundYourFinger);
+                
+                Slot d246 = new Slot(5, 246, ILikeYou);
+                
+                Slot d247 = new Slot(5, 247, ICannotBe);
+                
+                Slot d248 = new Slot(5, 248, LoveHate);
+                
+                Slot d249 = new Slot(5, 249, Euthanasia);
+                
+                Slot d250 = new Slot(5, 250, WhenImAlone);
+                
+                Slot d251 = new Slot(5, 251, Hateful);
+                
+                Slot d252 = new Slot(5, 252, Gangshit);
+                
+                Slot d253 = new Slot(5, 253, Circles);
+                
+                Slot d254 = new Slot(5, 254, BondeDaFumaca);
+                
+                Slot d255 = new Slot(5, 255, MlksDeSP);
+                
+                Slot d256 = new Slot(5, 256, HollywoodsBleeding);
+                
+                Slot d257 = new Slot(5, 257, DieForMe);
+                
+                Slot d258 = new Slot(5, 258, OnTheRoad);
+                
+                Slot d259 = new Slot(5, 259, TakaWhatYouWant);
+                
+                Slot d260 = new Slot(5, 260, ImGonnaBe);
+                
+                Slot d261 = new Slot(5, 261, Internet);
+                
+                Slot d262 = new Slot(5, 262, Plaqtudum);
+                
+                Slot d263 = new Slot(5, 263, FlackJack);
+                
+                Slot d264 = new Slot(5, 264, Myself);
+                
+                Slot d265 = new Slot(5, 265, Iknow);
+                
+                Slot d266 = new Slot(5, 266, WOW);
+                
+                Slot d267 = new Slot(5, 267, Paranoid);
+                
+                Slot d268 = new Slot(5, 268, SpoilMyNight);
+                
+                Slot d269 = new Slot(5, 269, AkDoJapao);
+                
+                Slot d270 = new Slot(5, 270, BlameItOnMe);
+                
+                Slot d271 = new Slot(5, 271, SameBitches);
+                
+                Slot d272 = new Slot(5, 272, Jonestown);
+                
+                Slot d273 = new Slot(5, 273, a92Explorer);
+                
+                Slot d274 = new Slot(5, 274, Franca);
+                
+                Slot d275 = new Slot(5, 275, SugarWraith);
+                
+                Slot d276 = new Slot(5, 276, BigLie);
+                
+                Slot d277 = new Slot(5, 277, DejaVu);
+                
+                Slot d278 = new Slot(5, 278, NoOption);
+                
+                Slot d279 = new Slot(5, 279, Cold);
+                
+                Slot d280 = new Slot(5, 280, Quarto);
+                    
+                Slot d281 = new Slot(5, 281, Arigato);
+                
+                Slot d282 = new Slot(5, 282, Playboy);
+                
+                Slot d283 = new Slot(5, 283, Japao);
+                
+                Slot  d284 = new Slot(5, 284, NoTies);
+                
+                Slot  d285 = new Slot(5, 285, VVS);
+                
+                Slot  d286 = new Slot(5, 286, DNA);
+                
+                Slot  d287 = new Slot(5, 287, AguasRasas);
+                
+                Slot  d288 = new Slot(5, 288, YE);
 
 				
 
  //================================================================
- // dia 8 
+ // dia 8 - Matheus
      
 		         Slot g1 = new Slot(8,1, MiamiVice);
 		 
@@ -2456,6 +2756,142 @@ public class Main {
 		         Slot g219 = new Slot(8,219, ToGostandoTantoDeVoce);
 		         
 		         Slot g220 = new Slot(8, 220, Reputation);
+		         
+		         Slot g221 = new Slot(8, 221, Patient);
+	                
+                Slot g222 = new Slot(8, 222, GoFlex);
+                
+                Slot g223 = new Slot(8, 223, Feel);
+                
+                Slot g224 = new Slot(8, 224, TooYoug);
+                
+                Slot g225 = new Slot(8, 225, Congratulations);
+                
+                Slot g226 = new Slot(8, 226, UpThere);
+                
+                Slot g227 = new Slot(8, 227, Leave);
+                
+                Slot g228 = new Slot(8, 228, HitThisHard);
+                
+                Slot g229 = new Slot(8, 229, NeSegredo);
+                
+                Slot g230 = new Slot(8, 230, Posturadao);
+                
+                Slot g231 = new Slot(8, 231, Maturidade);
+                
+                Slot g232 = new Slot(8, 232, a7Meiota);
+                
+                Slot g233 = new Slot(8, 233, Kweller202);
+                
+                Slot g234 = new Slot(8, 234, ConhecoBem);
+                
+                Slot g235 = new Slot(8, 235, Dior);
+                
+                Slot g236 = new Slot(8, 236, Bahia);
+                
+                Slot g237 = new Slot(8, 237, OutroPatamar);
+                
+                Slot g238 = new Slot(8, 238, Ochamado);
+                
+                Slot g239 = new Slot(8, 239, Chefin212);
+                
+                Slot g240 = new Slot(8, 240, Pandora);
+                
+                Slot g241 = new Slot(8, 241, FFM);
+                
+                Slot g242 = new Slot(8, 242, CoopedUp);
+     
+                Slot g243 = new Slot(8, 243, ICEONMYWRIST);
+                
+                Slot g244 = new Slot(8, 244, Insane);
+                
+                Slot g245 = new Slot(8, 245, WrappedAroundYourFinger);
+                
+                Slot g246 = new Slot(8, 246, ILikeYou);
+                
+                Slot g247 = new Slot(8, 247, ICannotBe);
+                
+                Slot g248 = new Slot(8, 248, LoveHate);
+                
+                Slot g249 = new Slot(8, 249, Euthanasia);
+                
+                Slot g250 = new Slot(8, 250, WhenImAlone);
+                
+                Slot g251 = new Slot(8, 251, Hateful);
+                
+                Slot g252 = new Slot(8, 252, Gangshit);
+                
+                Slot g253 = new Slot(8, 253, Circles);
+                
+                Slot g254 = new Slot(8, 254, BondeDaFumaca);
+                
+                Slot g255 = new Slot(8, 255, MlksDeSP);
+                
+                Slot g256 = new Slot(8, 256, HollywoodsBleeding);
+                
+                Slot g257 = new Slot(8, 257, DieForMe);
+                
+                Slot g258 = new Slot(8, 258, OnTheRoad);
+                
+                Slot g259 = new Slot(8, 259, TakaWhatYouWant);
+                
+                Slot g260 = new Slot(8, 260, ImGonnaBe);
+                
+                Slot g261 = new Slot(8, 261, Internet);
+                
+                Slot g262 = new Slot(8, 262, Plaqtudum);
+                
+                Slot g263 = new Slot(8, 263, FlackJack);
+                
+                Slot g264 = new Slot(8, 264, Myself);
+                
+                Slot g265 = new Slot(8, 265, Iknow);
+                
+                Slot g266 = new Slot(8, 266, WOW);
+                
+                Slot g267 = new Slot(8, 267, Paranoid);
+                
+                Slot g268 = new Slot(8, 268, SpoilMyNight);
+                
+                Slot g269 = new Slot(8, 269, AkDoJapao);
+                
+                Slot g270 = new Slot(8, 270, BlameItOnMe);
+                
+                Slot g271 = new Slot(8, 271, SameBitches);
+                
+                Slot g272 = new Slot(8, 272, Jonestown);
+                
+                Slot g273 = new Slot(8, 273, a92Explorer);
+                
+                Slot g274 = new Slot(8, 274, Franca);
+                
+                Slot g275 = new Slot(8, 275, SugarWraith);
+                
+                Slot g276 = new Slot(8, 276, BigLie);
+                
+                Slot g277 = new Slot(8, 277, DejaVu);
+                
+                Slot g278 = new Slot(8, 278, NoOption);
+                
+                Slot g279 = new Slot(8, 279, Cold);
+                
+                Slot g280 = new Slot(8, 280, Quarto);
+                    
+                Slot g281 = new Slot(8, 281, Arigato);
+                
+                Slot g282 = new Slot(8, 282, Playboy);
+                
+                Slot g283 = new Slot(8, 283, Japao);
+                
+                Slot  g284 = new Slot(8, 284, NoTies);
+                
+                Slot  g285 = new Slot(8, 285, VVS);
+                
+                Slot  g286 = new Slot(8, 286, DNA);
+                
+                Slot  g287 = new Slot(8, 287, AguasRasas);
+                
+                Slot  g288 = new Slot(8, 288, YE);
 		         
 		         
 		         
